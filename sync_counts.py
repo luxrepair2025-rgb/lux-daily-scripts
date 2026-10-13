@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Merge Script-filmed checks from ntfy into counts.json; commit/push if changed. Idempotent."""
-import json, os, subprocess, urllib.request
+import re, json, os, subprocess, urllib.request
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 T = 'https://ntfy.sh/lux-ds-5ee480669bb99dd3/json?poll=1&since=all'
 evs = []
@@ -9,7 +9,7 @@ for l in urllib.request.urlopen(T, timeout=30).read().decode().splitlines():
         m = json.loads(l)
         if m.get('event') == 'message':
             e = json.loads(m['message'])
-            if e.get('k') == 's' and e.get('d') and e.get('s'): evs.append(e)
+            if e.get('k') == 's' and re.fullmatch(r'\d{4}-\d\d-\d\d', str(e.get('d'))) and e.get('s'): evs.append(e)
     except Exception: pass
 state = {}
 for e in sorted(evs, key=lambda e: e.get('t', 0)): state[(e['d'], str(e['s']))] = bool(e.get('v'))
