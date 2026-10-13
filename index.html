@@ -24,7 +24,7 @@ catch(e){d=await (await fetch('data.json')).json();src='bundled copy'}
 items=genScripts(d,today);render()}
 function render(){const q=document.getElementById('q').value.toLowerCase(),f=document.getElementById('f').value;
 const n=items.filter(x=>filmed[x.stock]).length,nb=items.filter(x=>broll[x.stock]).length,nr=items.filter(x=>filmed[x.stock]&&broll[x.stock]).length;
-document.getElementById('meta').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',timeZone:'America/New_York'})+` · Script ${n}/${items.length} · B-roll ${nb}/${items.length} · Ready ${nr} · ${src}`;
+document.getElementById('meta').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',timeZone:'America/New_York'})+` · Script ${n}/${items.length} · B-roll ${nb}/${items.length} · Ready ${nr} · ${src} · ${syncOk===null?'syncing…':syncOk?'synced':'offline (saved on phone)'}`;
 const L=document.getElementById('list');L.innerHTML='';
 items.filter(x=>(!q||(x.title+' '+x.stock).toLowerCase().includes(q))&&(!f||(f==='noscript'?!filmed[x.stock]:f==='nobroll'?!broll[x.stock]:f==='ready'?(filmed[x.stock]&&broll[x.stock]):x.demand===f))).forEach(x=>{
 const c=document.createElement('div');const both=filmed[x.stock]&&broll[x.stock];c.className='card'+(both?' done':(filmed[x.stock]||broll[x.stock])?' part':'');
@@ -33,7 +33,17 @@ c.innerHTML=`<div class="row"><img loading="lazy" src="${x.img||''}" alt=""><div
 <div class="acts"><button class="cp">Copy</button><a href="${x.url}" target="_blank">Listing</a></div><div class="checks"><label><input type="checkbox" class="cs" ${filmed[x.stock]?'checked':''}> Script filmed</label><label><input type="checkbox" class="cb" ${broll[x.stock]?'checked':''}> B-roll filmed</label></div></div>`;
 c.querySelector('.row').onclick=()=>{c.classList.toggle('open');c.classList.contains('open')?open[x.stock]=1:delete open[x.stock]};
 c.querySelector('.cp').onclick=e=>{navigator.clipboard.writeText(x.script);e.target.textContent='Copied!';setTimeout(()=>e.target.textContent='Copy',1200)};
-const tg=(o,k)=>e=>{e.target.checked?o[x.stock]=1:delete o[x.stock];localStorage.setItem(k,JSON.stringify(o));open[x.stock]=1;render()};c.querySelector('.cs').onchange=tg(filmed,key);c.querySelector('.cb').onchange=tg(broll,kb);if(open[x.stock])c.classList.add('open');
+const tg=(o,k)=>e=>{e.target.checked?o[x.stock]=1:delete o[x.stock];localStorage.setItem(k,JSON.stringify(o));push({d:today,s:x.stock,k:o===filmed?'s':'b',v:e.target.checked?1:0,t:Date.now()});open[x.stock]=1;render()};c.querySelector('.cs').onchange=tg(filmed,key);c.querySelector('.cb').onchange=tg(broll,kb);if(open[x.stock])c.classList.add('open');
 L.appendChild(c)})}
-document.getElementById('q').oninput=render;document.getElementById('f').onchange=render;load();
+
+const TOPIC='https://ntfy.sh/lux-ds-5ee480669bb99dd3',pk='pending-'+today;let pending=JSON.parse(localStorage.getItem(pk)||'[]'),syncOk=null;
+function save(){localStorage.setItem(key,JSON.stringify(filmed));localStorage.setItem(kb,JSON.stringify(broll));localStorage.setItem(pk,JSON.stringify(pending))}
+function apply(ev){if(ev.d!==today)return;const o=ev.k==='s'?filmed:broll;ev.v?o[ev.s]=1:delete o[ev.s]}
+async function flush(){while(pending.length){try{const r=await fetch(TOPIC,{method:'POST',body:JSON.stringify(pending[0])});if(!r.ok)throw 0;pending.shift();save()}catch(e){syncOk=false;return}}}
+function push(ev){pending.push(ev);save();flush()}
+async function pull(){try{const t=await (await fetch(TOPIC+'/json?poll=1&since=all',{cache:'no-store'})).text();
+const evs=t.split('\n').filter(Boolean).map(l=>{try{const m=JSON.parse(l);return m.event==='message'?JSON.parse(m.message):null}catch(e){return null}}).filter(e=>e&&e.d===today);
+evs.concat(pending).sort((a,b)=>a.t-b.t).forEach(apply);syncOk=true;save();await flush();if(items.length)render()}catch(e){syncOk=false;if(items.length)render()}}
+setInterval(pull,10000);addEventListener('focus',pull);document.addEventListener('visibilitychange',()=>{if(!document.hidden)pull()});
+document.getElementById('q').oninput=render;document.getElementById('f').onchange=render;load().then(pull);
 </script></body></html>
