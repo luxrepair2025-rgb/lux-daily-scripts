@@ -1,0 +1,39 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Video Scripts</title><style>
+body{margin:0;font-family:-apple-system,system-ui,sans-serif;background:#f4f5f7;color:#111}
+header{position:sticky;top:0;background:#111;color:#fff;padding:12px 14px;z-index:2}
+h1{font-size:18px;margin:0}#meta{font-size:13px;opacity:.8;margin-top:2px}
+.ctl{display:flex;gap:6px;margin-top:8px}input[type=search],select{flex:1;padding:9px;border-radius:8px;border:0;font-size:15px}
+main{padding:10px}.card{background:#fff;border-radius:12px;margin-bottom:10px;box-shadow:0 1px 3px #0002;overflow:hidden}
+.row{display:flex;gap:10px;padding:10px;align-items:center;cursor:pointer}.row img{width:72px;height:54px;object-fit:cover;border-radius:6px;background:#ddd}
+.t{font-weight:600;font-size:15px}.s{font-size:13px;color:#555}.b{font-size:11px;padding:2px 7px;border-radius:9px;color:#fff;margin-left:4px}
+.Hot{background:#16a34a}.Warm{background:#ea580c}.Cool{background:#64748b}
+.det{display:none;padding:0 12px 12px}.open .det{display:block}.script{font-size:17px;line-height:1.45;margin:8px 0}
+.shot{font-size:13px;background:#eef2ff;padding:7px;border-radius:6px}.acts{display:flex;gap:8px;margin-top:10px;align-items:center}
+button,.acts a{padding:8px 12px;border-radius:8px;border:0;background:#111;color:#fff;font-size:14px;text-decoration:none}
+.done{opacity:.5}label{font-size:14px;display:flex;align-items:center;gap:4px}
+</style></head><body>
+<header><h1>Daily Video Scripts</h1><div id="meta">Loading…</div>
+<div class="ctl"><input type="search" id="q" placeholder="Search make, model, stock…"><select id="f"><option value="">All</option><option>Hot</option><option>Warm</option><option>Cool</option><option value="todo">Not filmed</option></select></div></header>
+<main id="list"></main>
+<script src="gen.js"></script><script>
+const today=new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'});
+const key='filmed-'+today;let filmed=JSON.parse(localStorage.getItem(key)||'{}'),items=[],src='';
+async function load(){let d;try{d=await (await fetch('https://luxrepair2025-rgb.github.io/lux-tesla-battery/data.json',{cache:'no-store'})).json();src='live'}
+catch(e){d=await (await fetch('data.json')).json();src='bundled copy'}
+items=genScripts(d,today);render()}
+function render(){const q=document.getElementById('q').value.toLowerCase(),f=document.getElementById('f').value;
+const n=items.filter(x=>filmed[x.stock]).length;
+document.getElementById('meta').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',timeZone:'America/New_York'})+` · ${n}/${items.length} filmed · ${src}`;
+const L=document.getElementById('list');L.innerHTML='';
+items.filter(x=>(!q||(x.title+' '+x.stock).toLowerCase().includes(q))&&(!f||(f==='todo'?!filmed[x.stock]:x.demand===f))).forEach(x=>{
+const c=document.createElement('div');c.className='card'+(filmed[x.stock]?' done':'');
+c.innerHTML=`<div class="row"><img loading="lazy" src="${x.img||''}" alt=""><div><div class="t">${x.title}</div><div class="s">#${x.stock} · ${x.priceStr} · ${Math.round(x.miles).toLocaleString()} mi<span class="b ${x.demand}">${x.demand}</span></div></div></div>
+<div class="det"><div class="shot">🎬 ${x.shot}</div><p class="script">${x.script}</p><div class="s">${x.words} words · ~${Math.round(x.words/2.5)}s</div>
+<div class="acts"><button class="cp">Copy</button><a href="${x.url}" target="_blank">Listing</a><label><input type="checkbox" ${filmed[x.stock]?'checked':''}> Filmed</label></div></div>`;
+c.querySelector('.row').onclick=()=>c.classList.toggle('open');
+c.querySelector('.cp').onclick=e=>{navigator.clipboard.writeText(x.script);e.target.textContent='Copied!';setTimeout(()=>e.target.textContent='Copy',1200)};
+c.querySelector('input').onchange=e=>{e.target.checked?filmed[x.stock]=1:delete filmed[x.stock];localStorage.setItem(key,JSON.stringify(filmed));render()};
+L.appendChild(c)})}
+document.getElementById('q').oninput=render;document.getElementById('f').onchange=render;load();
+</script></body></html>
