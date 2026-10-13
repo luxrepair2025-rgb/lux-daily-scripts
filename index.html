@@ -11,24 +11,24 @@ main{padding:10px}.card{background:#fff;border-radius:12px;margin-bottom:10px;bo
 .det{display:none;padding:0 12px 12px}.open .det{display:block}.script{font-size:17px;line-height:1.45;margin:8px 0}
 .shot{font-size:13px;background:#eef2ff;padding:7px;border-radius:6px}.acts{display:flex;gap:8px;margin-top:10px;align-items:center}
 button,.acts a{padding:8px 12px;border-radius:8px;border:0;background:#111;color:#fff;font-size:14px;text-decoration:none}
-.part{background:#fef3c7}.done{background:#dcfce7}.rdy{background:#16a34a;color:#fff;font-size:11px;padding:2px 7px;border-radius:9px;margin-left:4px}label{font-size:15px;display:flex;align-items:center;gap:8px;padding:6px 0}label input{width:26px;height:26px}.checks{margin-top:8px}.st{font-size:11px;padding:2px 6px;border-radius:6px;margin-right:4px;background:#e5e7eb;color:#555}.st.on{background:#bbf7d0;color:#166534}.sts{margin-top:4px}
+.part{background:#fef3c7}.done{background:#dcfce7}.rdy{background:#16a34a;color:#fff;font-size:11px;padding:2px 7px;border-radius:9px;margin-left:4px}label{font-size:15px;display:flex;align-items:center;gap:8px;padding:6px 0}label input{width:26px;height:26px}.checks{margin-top:8px}.st{font-size:11px;padding:2px 6px;border-radius:6px;margin-right:4px;background:#e5e7eb;color:#555}.st.on{background:#bbf7d0;color:#166534}.sts{margin-top:4px}.vc{font-size:11px;margin-left:6px;color:#1d4ed8;font-weight:600}
 </style></head><body>
 <header><h1>Daily Video Scripts</h1><div id="meta">Loading…</div>
 <div class="ctl"><input type="search" id="q" placeholder="Search make, model, stock…"><select id="f"><option value="">All</option><option>Hot</option><option>Warm</option><option>Cool</option><option value="noscript">Script not filmed</option><option value="nobroll">B-roll not filmed</option><option value="ready">Ready to edit</option></select></div></header>
 <main id="list"></main>
 <script src="gen.js"></script><script>
 const today=new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'});
-const key='filmed-'+today,kb='broll-'+today;let filmed=JSON.parse(localStorage.getItem(key)||'{}'),broll=JSON.parse(localStorage.getItem(kb)||'{}'),items=[],src='',open={};
+const key='filmed-'+today,kb='broll-'+today;let filmed=JSON.parse(localStorage.getItem(key)||'{}'),broll=JSON.parse(localStorage.getItem(kb)||'{}'),items=[],src='',open={},counts={};
 async function load(){let d;try{d=await (await fetch('https://luxrepair2025-rgb.github.io/lux-tesla-battery/data.json',{cache:'no-store'})).json();src='live'}
 catch(e){d=await (await fetch('data.json')).json();src='bundled copy'}
-items=genScripts(d,today);render()}
+items=genScripts(d,today);try{counts=(await (await fetch('counts.json?'+Date.now(),{cache:'no-store'})).json()).stocks||{}}catch(e){}render()}
 function render(){const q=document.getElementById('q').value.toLowerCase(),f=document.getElementById('f').value;
 const n=items.filter(x=>filmed[x.stock]).length,nb=items.filter(x=>broll[x.stock]).length,nr=items.filter(x=>filmed[x.stock]&&broll[x.stock]).length;
 document.getElementById('meta').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',timeZone:'America/New_York'})+` · Script ${n}/${items.length} · B-roll ${nb}/${items.length} · Ready ${nr} · ${src} · ${syncOk===null?'syncing…':syncOk?'synced':'offline (saved on phone)'}`;
-const L=document.getElementById('list');L.innerHTML='';
+const L=document.getElementById('list');L.innerHTML='';const vc=x=>{const c=counts[x.stock],ds=c?c.dates:[];return ds.filter(d=>d!==today).length+(filmed[x.stock]?1:0)};const rk={Hot:0,Warm:1,Cool:2};items.sort((a,b)=>vc(a)-vc(b)||rk[a.demand]-rk[b.demand]||b.price-a.price);
 items.filter(x=>(!q||(x.title+' '+x.stock).toLowerCase().includes(q))&&(!f||(f==='noscript'?!filmed[x.stock]:f==='nobroll'?!broll[x.stock]:f==='ready'?(filmed[x.stock]&&broll[x.stock]):x.demand===f))).forEach(x=>{
 const c=document.createElement('div');const both=filmed[x.stock]&&broll[x.stock];c.className='card'+(both?' done':(filmed[x.stock]||broll[x.stock])?' part':'');
-c.innerHTML=`<div class="row"><img loading="lazy" src="${x.img||''}" alt=""><div><div class="t">${x.title}</div><div class="s">#${x.stock} · ${x.priceStr} · ${Math.round(x.miles).toLocaleString()} mi<span class="b ${x.demand}">${x.demand}</span>${both?'<span class="rdy">Ready to edit</span>':''}</div><div class="sts"><span class="st ${filmed[x.stock]?'on':''}">${filmed[x.stock]?'✓':'○'} Script</span><span class="st ${broll[x.stock]?'on':''}">${broll[x.stock]?'✓':'○'} B-roll</span></div></div></div>
+c.innerHTML=`<div class="row"><img loading="lazy" src="${x.img||''}" alt=""><div><div class="t">${x.title}</div><div class="s">#${x.stock} · ${x.priceStr} · ${Math.round(x.miles).toLocaleString()} mi<span class="vc">${vc(x)} video${vc(x)===1?'':'s'}</span><span class="b ${x.demand}">${x.demand}</span>${both?'<span class="rdy">Ready to edit</span>':''}</div><div class="sts"><span class="st ${filmed[x.stock]?'on':''}">${filmed[x.stock]?'✓':'○'} Script</span><span class="st ${broll[x.stock]?'on':''}">${broll[x.stock]?'✓':'○'} B-roll</span></div></div></div>
 <div class="det"><div class="shot">🎬 ${x.shot}</div><p class="script">${x.script}</p><div class="s">${x.words} words · ~${Math.round(x.words/2.5)}s</div>
 <div class="acts"><button class="cp">Copy</button><a href="${x.url}" target="_blank">Listing</a></div><div class="checks"><label><input type="checkbox" class="cs" ${filmed[x.stock]?'checked':''}> Script filmed</label><label><input type="checkbox" class="cb" ${broll[x.stock]?'checked':''}> B-roll filmed</label></div></div>`;
 c.querySelector('.row').onclick=()=>{c.classList.toggle('open');c.classList.contains('open')?open[x.stock]=1:delete open[x.stock]};
