@@ -11,7 +11,7 @@ function gen(data,dateStr){
  const per=period(dateStr),rank={Hot:0,Warm:1,Cool:2};
  return data.filter(v=>!(v.sold===true||v.sold==='True')).map(v=>{
   const ev=v.fuel==='ELECTRIC',short=`${v.year} ${v.make} ${v.model}`,title=short+(v.trim?` ${v.trim}`:'');
-  const P=money(v.price),M=mi(v.miles),cf=v.carfax||{},col=(v.color||'').toLowerCase(),int=(v.interior||'').toLowerCase();
+  const hasP=v.price!=null&&v.price>0,P=hasP?money(v.price):'',M=mi(v.miles),cf=v.carfax||{},col=(v.color||'').toLowerCase(),int=(v.interior||'').toLowerCase();
   const body=v.body_type&&v.body_type!=='Other'?(v.body_type==='SUV'?'SUV':v.body_type.toLowerCase()):'ride';
   const seed=hash(per+'|'+v.stock),pick=(a,o=0)=>a[(seed+o*7)%a.length];
   const pts=[];
@@ -28,13 +28,14 @@ function gen(data,dateStr){
   if(cf.service>=3) pts.push(`${cf.service} service records on the Carfax!`);
   if(col&&int) pts.push(pick([`Finished in ${col} with a ${int} interior. Sharp!`,`Check out that ${col} paint with the ${int} interior!`],5));
   const hooks=[`Stop scrolling! This ${short} is one you need to see!`,`Good morning from Lux Automotive! Let's check out this ${short}!`,
-   `Looking for ${body==="SUV"?"an":"a"} ${body} under ${money(Math.ceil(v.price/1000)*1000)}? You're going to love this one!`,`Heads up! This ${short} will not last long on our lot!`,
+   hasP?`Looking for ${body==="SUV"?"an":"a"} ${body} under ${money(Math.ceil(v.price/1000)*1000)}? You're going to love this one!`:`Shopping for a ${body}? You're going to love this one!`,`Heads up! This ${short} will not last long on our lot!`,
    `It's walkaround time! Meet this ${col?col+' ':''}${short}!`,ev?`Think used EV batteries are a gamble? Not this ${short}!`:`Want something dependable? Say hello to this ${short}!`];
   const bridges=[`Here's why it's special.`,`Let me show you what you get.`,`Let's get into it!`,`Check this out.`];
   const ctas=[`It's priced at ${P}. Ask for stock number ${v.stock}, send us a message, or come see it today!`,
    `All of that for ${P}! Tap the link, call us, or stop by Lux Automotive and take it for a drive!`,
    `${P} gets you behind the wheel! Ask for stock ${v.stock} before somebody else grabs it!`,
    `Yours for ${P}! DM us or call now to set up your test drive. Don't wait on this one!`];
+  if(!hasP) ctas.splice(0,ctas.length,`Ask for stock number ${v.stock}, send us a message, or come see it today!`,`Tap the link, call us, or stop by Lux Automotive and take it for a drive!`,`Ask for stock ${v.stock} before somebody else grabs it!`,`DM us or call now to set up your test drive. Don't wait on this one!`);
   const fillers=[`Whether it's the daily commute or a weekend trip, this ${body} is ready.`,`Honestly, the photos don't do it justice. You have to see it in person.`,`This is the kind of ${body} people ask us about all the time.`];
   const st=seed%pts.length,ord=pts.slice(st).concat(pts.slice(0,st));
   if(ev&&v.soh&&!ord.slice(0,3).some(p=>/battery/i.test(p))){ord.unshift(pts[0]);ord.splice(ord.lastIndexOf(pts[0]),1)}
@@ -45,7 +46,7 @@ function gen(data,dateStr){
   const script=build();
   const shots=[`Slow walkaround from the front 3/4, then the interior and odometer (${M} mi)`,`Open on a badge close-up, pan to the full side profile, end in the driver's seat`,
    `Start inside on the dash${ev?' showing the battery %/range screen':''}, then step out to the full exterior`,`Walk toward the car from a distance, open the door, show the ${int} interior`];
-  return {stock:String(v.stock),title,price:v.price,priceStr:P,miles:v.miles,demand:demandOf(v),fuel:v.fuel,img:v.img,url:v.url,shot:pick(shots,1),script,words:wc(script)};
+  return {stock:String(v.stock),title,price:v.price,priceStr:hasP?P:'Call for price',miles:v.miles,demand:demandOf(v),fuel:v.fuel,img:v.img,url:v.url,shot:pick(shots,1),script,words:wc(script)};
  }).sort((a,b)=>rank[a.demand]-rank[b.demand]||b.price-a.price);
 }
 root.genScripts=gen;root.scriptPeriod=period;if(typeof module!=='undefined')module.exports=gen;

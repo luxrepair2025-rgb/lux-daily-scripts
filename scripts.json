@@ -1,0 +1,901 @@
+{
+ "_note": "See SCRIPTS_README.md. Keyed by stock; 3 variants, page shows variant = (3-day period index) mod 3.",
+ "scripts": {
+  "643010": [
+   {
+    "shot": "Open on the battery screen, pull back to reveal the gray paint, finish on the black interior",
+    "script": "Ninety-three percent. That's the battery health we measured on this 2023 Tesla Model 3, and it earned an Excellent rating! It's a one-owner car with no accidents reported on Carfax, just 22,440 miles on the clock, and roughly 253 miles of range. Gray outside, black inside, clean and simple. And here's my favorite part, the price: $29,295. Swing by this morning and grab the keycard for stock 643010 before your neighbor does!"
+   },
+   {
+    "shot": "Selfie-style walk around the car while talking, end with a thumbs up at the trunk",
+    "script": "Who's this car for? The commuter who is done feeding a gas pump every single week! This 2023 Model 3 Standard runs an LFP battery, the kind that's happy charging all the way to 100 percent. We tested it at 93 percent health. It has only 22,440 miles, one owner, and zero accidents on the Carfax. If that sounds like you, $29,295 gets it done. Ring the store before noon and we'll have it charged for your drive."
+   },
+   {
+    "shot": "Static wide shot, then quick cuts: wheel, headlight, center screen, odometer",
+    "script": "Shopping for a brand-new Model 3? Hold that thought for ten seconds. Sitting right here is a 2023 with just 22,440 miles. The battery checks out at 93 percent. Range lands around 253 miles. One owner, and no reported accidents. You skip the first-owner depreciation and still drive home in a nearly new EV, which is just smart money. All for $29,295. Slide into our DMs with stock number 643010 and come see it for yourself."
+   }
+  ],
+  "657245": [
+   {
+    "shot": "Start on the white interior seats, then step outside to show the gray exterior",
+    "script": "White interior in a Tesla? Yes, please! This 2023 Model 3 Standard pairs gray paint with that bright white cabin, and wow, does it pop in person. Battery health came in at 92.9 percent, rated Excellent. You get 23,631 miles and an estimated 253 miles of range, plus a single owner on the Carfax. It's priced at $30,995. Come sit in it at Lux Automotive today, and I promise you'll understand the hype about that cabin."
+   },
+   {
+    "shot": "Close-up of the charge port opening, then a slow pan down the side",
+    "script": "Quick question. What if plugging in to 100 percent every night was totally fine? With the LFP pack in this 2023 Model 3, it is! The battery tests at 92.9 percent. The odometer reads just 23,631. Range sits near 253 miles, and it's had exactly one owner. Gray over white, and seriously sharp. You can own it for $30,995. Shoot us a text, and we'll save a test drive slot with your name on it."
+   },
+   {
+    "shot": "Handheld walkaround ending with the door open, showing the cabin",
+    "script": "Here's the story of a car that barely got driven. One owner. Only 23,631 miles. And a battery that still tests at 92.9 percent. This 2023 Tesla Model 3 is gray on white, rear-wheel drive, with around 253 miles of estimated range. It's the kind of used EV that makes you forget it was ever used! Thirty thousand nine ninety-five. Stock 657245 is ready for a lap around the block, so bring your license."
+   }
+  ],
+  "645058": [
+   {
+    "shot": "Film the service paperwork angle: Carfax on a phone next to the car, then the car",
+    "script": "Clean history fans, this one's for you! This 2023 Tesla Model 3 has one owner, no accidents reported on Carfax, and a service record on file. Battery health tested at 92.7 percent, an Excellent rating. You're getting 24,801 miles and roughly 252 miles of range. Gray outside, white inside. Honestly, it's about as stress-free as used EVs get. $30,995 makes it yours, so reach out before the weekend crowd claims stock 645058."
+   },
+   {
+    "shot": "Fast-paced cuts timed to each fact: odometer, screen, seats, rear badge",
+    "script": "Twenty-four thousand miles. Ninety-two percent battery. One owner. Zero accidents. Honestly, that's the whole pitch, and it's a great one! This 2023 Model 3 Standard wears gray paint over a white interior, and it's good for about 252 miles per charge. The LFP battery loves a full top-up, too. Price check: $30,995. Don't scroll past it. Pick up the phone and book a drive while it's still on our front row."
+   },
+   {
+    "shot": "Walk slowly toward the car from a distance, open the driver door, sit down",
+    "script": "Picture your morning commute in this. Quiet. Smooth. Not one gas station stop. This 2023 Tesla Model 3 is built for exactly that life. It's a one-owner car with just 24,801 miles, and the battery measured 92.7 percent health. Expect around 252 miles on a charge. Gray paint, white seats, and a Carfax with no reported accidents. Thirty thousand, nine ninety-five. Come feel how silent it is on a test drive this week!"
+   }
+  ],
+  "208339": [
+   {
+    "shot": "Start in the cargo area with the hatch open, close it, walk to the front",
+    "script": "Need room for the family AND want to ditch gas? Meet this 2023 Tesla Model Y Long Range! All-wheel drive. An estimated 306 miles of range. Battery health measured at 92.6 percent, which is Excellent. Only 18,676 miles, one owner, and no accidents on the Carfax. Gray over black and looking sharp. It's priced at $37,295. Message us right now and we'll have the cabin cooled down and the keys waiting for you."
+   },
+   {
+    "shot": "Low angle shot of the front, slow push in on the badge, then the range screen",
+    "script": "Three hundred and six miles. That's the estimated range on this Model Y Long Range, and that's real road trip territory! It's a 2023 with just 18,676 miles, one owner, and a battery testing at 92.6 percent. All-wheel drive handles the rainy days. No reported accidents, either. If you've been hunting for the perfect used Model Y, your search might be over. Stock 208339. $37,295. Get here before somebody else takes it home!"
+   },
+   {
+    "shot": "Mock comparison: point at the car while listing new vs used facts on screen text",
+    "script": "Brand-new prices? No way, not when this exists. This 2023 Tesla Model Y Long Range has barely been driven, with only 18,676 miles. The battery still checks out at 92.6 percent. You get all-wheel drive, about 306 miles of range, and a one-owner Carfax with zero accidents. Gray paint, black interior. All for $37,295. Let somebody else take the new-car depreciation hit, and you keep the difference. Call us and drive this one home."
+   }
+  ],
+  "612662": [
+   {
+    "shot": "Walkaround starting at the rear, ending at the front headlight",
+    "script": "Long Range plus all-wheel drive, the combo everybody asks us for! This 2023 Tesla Model Y shows 23,448 miles, and its battery tested at 91.9 percent, rated Excellent. Estimated range is about 303 miles. The Carfax lists three service records and no accidents reported. It's an SUV that handles the school run and the weekend getaway without breaking a sweat. Ask about stock 612662, then come feel that instant electric pull for yourself."
+   },
+   {
+    "shot": "Start inside on the big center screen, then pan to the back seat",
+    "script": "Ever stood at a gas pump on a freezing January morning? Yeah, those days are over. This 2023 Model Y Long Range runs on electrons and gets an estimated 303 miles per charge. Battery health: 91.9 percent. Odometer: just 23,448. Three service records on the Carfax, no reported accidents, and all-wheel drive for winter. Send a quick message to Lux Automotive, and let's get you behind the wheel before lunch today."
+   },
+   {
+    "shot": "Drone-style high handheld shot circling the roof, then eye level at the door",
+    "script": "This is the one for the family that wants an EV without the range anxiety. A 2023 Tesla Model Y Long Range. All-wheel drive. Around 303 miles between charges. A battery that measured 91.9 percent health. And only 23,448 miles on it! The Carfax looks great, too: no accidents and three service records. Stock number 612662 is parked on our lot right now. Stop in this week and take a look."
+   }
+  ],
+  "591951": [
+   {
+    "shot": "Black-on-black detail shots: glossy roof, black seats, black wheel",
+    "script": "Black on black. It never goes out of style! This 2023 Tesla Model 3 Standard is blacked out inside and out, and it's priced at only $25,995. Battery health tested at 91.5 percent, an Excellent rating. It has 35,697 miles and roughly 249 miles of estimated range. One owner, no accidents on the Carfax. It's a gorgeous car at a seriously friendly price. DM us, mention stock 591951, and let's make it yours."
+   },
+   {
+    "shot": "Hold up a phone calculator showing 25,995, then reveal the car behind it",
+    "script": "Can you still get a 2023 Tesla for under twenty-six grand? Right here, you can. $25,995 for this Model 3 Standard! That buys a one-owner car with no reported accidents, a battery tested at 91.5 percent, and about 249 miles of range. There are 35,697 miles on it, plus that LFP pack that's fine charging to full. Seriously, call before lunch. A one-owner Tesla at this price won't sit here long."
+   },
+   {
+    "shot": "Night-mode vibe: headlights on in the morning shade, slow walk past",
+    "script": "Okay, real talk. If I were buying my first EV, I'd want this exact car. Why? It's a 2023 Model 3 with one owner and a spotless, no-accident Carfax. The battery tests at 91.5 percent. It has 35,697 miles and around 249 miles of range. And it's black on black, which looks mean in the best possible way. $25,995. Come down to Lux Automotive and see why I'm this excited about it."
+   }
+  ],
+  "304751": [
+   {
+    "shot": "Show the white interior with the doors open, then wide shot of the gray SUV",
+    "script": "2024! That's right, a 2024 Tesla Model Y Long Range, gray with a crisp white interior. Battery health tested at 90.9 percent. It has 38,976 miles, roughly 291 miles of estimated range, and one owner on the Carfax. Rear-wheel drive, roomy, and seriously comfortable. Priced at $36,995. Want one of the newest SUVs on our lot? Call today and ask to see stock 304751 in person while it's still here."
+   },
+   {
+    "shot": "Start with someone loading a bag into the trunk, then shut it and smile",
+    "script": "Groceries, gym bags, the dog crate, it all fits. This 2024 Model Y Long Range is built for real life. You get about 291 miles of estimated range and a battery that measured 90.9 percent health. It has 38,976 miles and just one owner. Gray paint with that clean white cabin, too. Thirty-six nine ninety-five gets it done. Drop us a message and we'll set up a test drive around your schedule."
+   },
+   {
+    "shot": "Countdown style with text overlays: 1, 2, 3 for each selling point",
+    "script": "Three reasons this Model Y won't last. One: it's a 2024, one of the newest cars we have. Two: the battery tested at 90.9 percent, with roughly 291 miles of range. Three: one owner and only 38,976 miles. Bonus reason? That white interior looks unbelievable in person. Those three reasons cost $36,995. Visit Lux Automotive for stock 304751, and seriously, come early, because this one gets a lot of looks."
+   }
+  ],
+  "544132": [
+   {
+    "shot": "All-white theme: show white paint, white seats, end on a white sky shot over the roof",
+    "script": "White on white. Clean, bright, and totally fresh. This 2023 Tesla Model 3 Standard is a real head-turner! The battery tested at 90.7 percent health. It's got 45,173 miles, about 247 miles of range, and one owner with no accidents on the Carfax. Plus the LFP battery is happy charging to full every night. Price? $27,295. Stop by today, or DM us about stock 544132, and we'll have it shining up front."
+   },
+   {
+    "shot": "Hand on steering wheel POV, then cut to the range on the screen",
+    "script": "This one's for anyone who wants a Tesla, wants it clean, and doesn't want to overspend. That's this 2023 Model 3. One owner. No accidents reported. A battery at 90.7 percent and around 247 miles of range. There are 45,173 miles on the clock, and it's gorgeous white on white. At $27,295, it honestly feels like a steal. Book a quick drive this week and see why it's my pick."
+   },
+   {
+    "shot": "Slow 360 walkaround with the camera at waist height",
+    "script": "Look at this thing shine! A 2023 Tesla Model 3, white outside, white inside, and ready for its next owner. Let's break it all down. Battery health: 90.7 percent, Excellent. Range: roughly 247 miles. Beautiful. Mileage: 45,173. History: one owner, zero accidents reported. It's rear-wheel drive with the LFP pack, too. Twenty-seven two ninety-five. Lock in a test drive today, and bring a friend to snap your picture with it!"
+   }
+  ],
+  "482978": [
+   {
+    "shot": "Low shot of the white paint, then open the door to show black interior",
+    "script": "Under twenty-six thousand for a 2023 Model 3? Yep! This one's $25,295. It's white with a black interior, and it's a one-owner car. The battery tested at 90.3 percent, an Excellent rating. You're looking at 52,605 miles and about 246 miles of range. And that LFP pack loves a full charge, too. Hit us up now about stock 482978, because clean one-owner Teslas at this price move fast around here."
+   },
+   {
+    "shot": "Show a gas receipt crumpling (or hand wave), then reveal the car",
+    "script": "Tired of gas prices? Same. Here's your exit plan: a 2023 Tesla Model 3 Standard for $25,295. Battery health still tests at 90.3 percent. You'll get about 246 miles on a charge. It has 52,605 miles, one owner, white paint, and black seats. It's the easiest switch to electric you'll ever make. Come by Lux Automotive or give us a ring, and we'll have it charged up when you walk in."
+   },
+   {
+    "shot": "Walk from the rear bumper to the front, pause at the wheel and the screen",
+    "script": "Classic combo: white Tesla, black interior. This 2023 Model 3 has had one owner and shows 52,605 miles. The battery? Tested at 90.3 percent. That's genuinely impressive for a used car. Estimated range sits near 246 miles, and the LFP chemistry is built to handle daily full charges. Value-wise, $25,295 is hard to beat anywhere. Stock number 482978. Text the store this morning, and let's get you in the driver's seat today."
+   }
+  ],
+  "642122": [
+   {
+    "shot": "Odometer close-up first, then pull back to the full gray exterior",
+    "script": "Seventy thousand miles, and the battery still tests at 89.4 percent? Yes! That's the magic of LFP. This 2023 Tesla Model 3 Standard is gray with a black interior, has one owner, and gets roughly 243 miles of range. Even at 70,767 miles, the battery is still rated Excellent. And the price is just $25,995. Come see stock 642122 for yourself, and ask us anything you want about that battery."
+   },
+   {
+    "shot": "Talking-head style next to the car, gesturing at the battery screen",
+    "script": "People always ask me, do Tesla batteries wear out? Let me show you this one. A 2023 Model 3. 70,767 miles. Battery health? 89.4 percent. Excellent! That's the LFP pack doing its thing. You get about 243 miles of range, a one-owner history, and that sharp gray-on-black look. It's priced at $25,995. If you've got questions, call us. If you're ready, come drive it today and feel the difference yourself."
+   },
+   {
+    "shot": "Commuter angle: film the car pulling into a parking spot",
+    "script": "Built for commuters. Proven by miles. This 2023 Model 3 has already shown what it can do, and the battery health is still 89.4 percent! It's got 70,767 miles, one owner, and around 243 miles of estimated range. Gray paint, black interior, rear-wheel drive. For $25,995, you're getting a tested, trusted EV. Visit Lux Automotive for stock 642122, and we'll pull up the battery report right in front of you."
+   }
+  ],
+  "872032": [
+   {
+    "shot": "Low front angle, slow push in on the Performance badge, then the blue paint in sunlight",
+    "script": "Blue Model Y Performance. Let that sink in! This 2023 has all-wheel drive, just 34,899 miles, and a one-owner Carfax. The battery tested at 88.5 percent health, rated Excellent, with roughly 268 miles of range. Pure fun. Blue outside, black inside. It's fast, it's genuinely family-friendly, and it's priced at $37,495. Pull up for stock 872032, take one launch off the line, and try to stop smiling. I dare you."
+   },
+   {
+    "shot": "Start in the back seat looking forward, then hop out and walk to the front",
+    "script": "The parent who still wants to have fun? This one's for you! This 2023 Tesla Model Y Performance seats the crew AND brings the excitement. All-wheel drive. 34,899 miles. Battery health measured at 88.5 percent. About 268 miles of estimated range. One owner on the Carfax, plus a service record on file. $37,495, all in. Come see why minivans are jealous, and bring the kids along, because they'll vote yes."
+   },
+   {
+    "shot": "Quick cuts: wheel, badge, blue paint reflections, cabin, range screen",
+    "script": "Ever wanted Performance without paying brand-new money? Here's your shot, right here. A 2023 Model Y Performance, finished in a gorgeous blue with a black interior. It has 34,899 miles and one owner. The battery tested at 88.5 percent, it gets around 268 miles of range, and it's all-wheel drive. Honestly, it's one of my favorite cars on the lot right now. $37,495. Message us before somebody beats you to it!"
+   }
+  ],
+  "439008": [
+   {
+    "shot": "Big text overlay of the price, reveal the red car behind it",
+    "script": "Eighteen thousand two ninety-five. For a 2023 Tesla! This red Model 3 Standard is one of the best values on our whole lot. Yes, it has 125,415 miles, but the battery still tests at 87.6 percent, rated Excellent. Estimated range lands near 238 miles. Impressive, right? One owner, and four service records on the Carfax. Want an affordable way into a Tesla? Call about stock 439008 today, before someone else does."
+   },
+   {
+    "shot": "Film the red paint up close in morning light, then the black interior",
+    "script": "Red Tesla, black interior, and a price that actually makes sense. This 2023 Model 3 has done some driving, 125,415 miles, and guess what? The battery health tested at 87.6 percent! That's the LFP pack proving how tough it is. Around 238 miles of range, too. One owner. Four service records. All for $18,295. Stop by and see it, because it's living proof high miles don't scare a well-built EV."
+   },
+   {
+    "shot": "Rideshare angle: open the rear door like a driver would for a passenger",
+    "script": "Rideshare drivers, are you listening? This 2023 Tesla Model 3 is built for racking up miles. It already has 125,415, and the battery still checks out at 87.6 percent health. No oil changes, no gas, and about 238 miles per charge. One owner with four service records. And the price is only $18,295. That's not just a car, that's a business tool. Ask about stock 439008, and let's talk numbers today."
+   }
+  ],
+  "323907": [
+   {
+    "shot": "Pan across the dashboard to the range screen, then exit and show the AWD badge on the rear",
+    "script": "Over 300 miles of range for twenty-seven grand? This 2022 Tesla Model 3 Long Range gets an estimated 313 miles! All-wheel drive. Battery health tested at 87.3 percent. One owner. 66,170 miles. Range anxiety? Gone. Gray paint with a black interior. It's priced at $27,295 and it's ready for road trips right now. Grab the keycard for stock 323907, queue your favorite playlist, and come take it out on the highway today."
+   },
+   {
+    "shot": "Map app on phone showing a long trip, then cut to the car",
+    "script": "Planning a road trip? Allow me to introduce your brand new co-pilot. A 2022 Model 3 Long Range with about 313 miles of estimated range! Dual motor all-wheel drive. A battery at 87.3 percent. One owner, 66,170 miles, gray over black. Picture cruising right past every gas station on the interstate. All of this for $27,295. Send us a DM, and let's get you on the open road this weekend!"
+   },
+   {
+    "shot": "Slow walk alongside the car, then a quick door open-close",
+    "script": "Here's the sweet spot of used Teslas. A Long Range Model 3, the trim that gives you range AND all-wheel drive, at a price that won't hurt. This 2022 has 66,170 miles and one owner. The battery tested at 87.3 percent, good for around 313 miles. Gray, black, clean, and simple. Twenty-seven two ninety-five. Stock 323907 is out front, so stop in and ask us to show you the range screen."
+   }
+  ],
+  "119770": [
+   {
+    "shot": "Carfax pulled up on a phone in front of the car, then a slow walkaround",
+    "script": "One owner. No accidents reported. That's exactly what we love to see on a Carfax! This 2022 Tesla Model 3 Long Range is all-wheel drive and gets an estimated 311 miles of range. Battery health tested at 86.8 percent. It has 75,959 miles, gray paint over a black interior, and a service record on file. Price: $26,295. Dual motors and a clean history like this don't hang around, so come see stock 119770."
+   },
+   {
+    "shot": "Start at the rear AWD badge, crisp cut to the front, then the interior",
+    "script": "Is all-wheel drive on your must-have list this year? This 2022 Model 3 Long Range delivers. Dual motors, roughly 311 miles of range, and a battery tested at 86.8 percent. It's got 75,959 miles and a clean history, with one owner and no reported accidents. Gray on black, sporty and simple. It's $26,295. Shoot us a text or call the store directly, and let's line up your drive for this morning."
+   },
+   {
+    "shot": "Morning coffee shot: set a cup on the roof, then walk around the car",
+    "script": "Okay, coffee's poured. Let's talk Teslas! This 2022 Model 3 Long Range is a crowd favorite for a reason. All-wheel drive. An estimated 311 miles of range. A battery measured at 86.8 percent. One owner, no accidents on the Carfax, and 75,959 miles. We love this one. And the price is a very reasonable $26,295. Mention stock 119770 at the front desk. Bring your coffee, and we'll take it for a spin together."
+   }
+  ],
+  "830720": [
+   {
+    "shot": "White on white detail shots: paint, seats, Performance badge",
+    "script": "A white-on-white Model Y Performance for $32,295? You heard that right! This 2023 has all-wheel drive, a one-owner Carfax, and a battery that tested at 86.2 percent, rated Excellent. Expect about 261 miles of estimated range. There are 65,586 miles on it. Priced right, too. It's quick, it's roomy, and it looks stunning in person. Call or message Lux Automotive about stock 830720, and we'll toss you the keycard for a ride."
+   },
+   {
+    "shot": "Show the trunk and folded seats, then walk to the front and point at the badge",
+    "script": "Space AND speed. That's the Model Y Performance in one sentence. This 2023 is finished in white with a white interior, rides on all-wheel drive, and has had just one owner. It shows 65,586 miles, battery health of 86.2 percent, and roughly 261 miles of range. A family SUV that just happens to be seriously quick. Thirty-two two ninety-five. Come open the hatch and picture your next road trip in it!"
+   },
+   {
+    "shot": "Price-reveal style: start tight on the wheel, slowly widen to the whole SUV",
+    "script": "Let's play a game. Guess the price of this 2023 Tesla Model Y Performance. All-wheel drive. One owner. A battery tested at 86.2 percent. About 261 miles of range. White on white! Got your number? It's $32,295! That's a whole lot of Tesla for the money. Yes, it has 65,586 miles, and that's exactly why it's priced to move. Swing by Lux Automotive this week and ask for stock 830720."
+   }
+  ],
+  "260077": [
+   {
+    "shot": "Black car detail shots in the shade, then show the odometer",
+    "script": "Big miles, small price, strong battery. This 2022 Tesla Model 3 Long Range has 106,484 miles, yet the battery still tests at 85.5 percent and it gets an estimated 306 miles of range! It's a mileage champ, honestly. All-wheel drive. No accidents reported, plus three service records on the Carfax. Black on black. Price: only $22,995. Dual motors and a three-hundred-mile range under twenty-three grand? Request stock 260077 and see it today."
+   },
+   {
+    "shot": "Highway-themed opener: film the car from behind as if leaving the lot",
+    "script": "Who needs this car? Somebody who drives a LOT. This 2022 Model 3 Long Range has proven it can handle serious miles, and it still gives you roughly 306 miles per charge. Battery health: 85.5 percent. All-wheel drive. No reported accidents and three service records. Black on black. At $22,995, you start saving on fuel from the very first day. Give us a call this morning, and let's make it happen."
+   },
+   {
+    "shot": "Hand holding keycard up to the camera, then tap to unlock the car",
+    "script": "This little black card unlocks a lot of car for the money. A 2022 Tesla Model 3 Long Range, with all-wheel drive, roughly 306 miles of range, and a battery that still tests at 85.5 percent. Black paint, black interior. It has 106,484 miles, three service records, and no accidents reported. Twenty-two nine ninety-five. Stock number 260077. Come grab this keycard, and we'll take it out for a spin together."
+   }
+  ],
+  "980227": [
+   {
+    "shot": "Black paint glamour shot, then the Long Range badge, then the cabin",
+    "script": "Under twenty-two thousand for a Long Range Tesla? Oh yes! This 2021 Model 3 Long Range is black on black and priced at $21,995. All-wheel drive. Estimated range around 302 miles. Battery health tested at 85.5 percent, rated Excellent. One owner and three service records on the Carfax, with 87,792 miles. At this price, it's one of the best range-per-dollar deals we've had all year. Ask about stock 980227 and test it this week!"
+   },
+   {
+    "shot": "Point the camera at the frunk opening, then pull back to the full car",
+    "script": "Fun fact: Teslas have a trunk in the front. And this 2021 Model 3 Long Range has a lot more going for it than a frunk! All-wheel drive. Roughly 302 miles of range. 85.5 percent battery health. One owner with three service records. It shows 87,792 miles, it's black on black, and it's only $21,995. Come pop that frunk yourself. Phone us this morning and we'll set up a drive whenever works for you."
+   },
+   {
+    "shot": "Budget-themed: hold up a sticky note with the price on the windshield",
+    "script": "Tight budget? Big commute? I've got your answer. This 2021 Tesla Model 3 Long Range gets about 302 miles per charge and costs just $21,995. The battery checked out at 85.5 percent health. All-wheel drive takes care of the weather. It has 87,792 miles, one owner, and three service records. Black outside, black inside, totally sleek. Stock 980227. Send a message before it's gone, because budget Long Ranges never last."
+   }
+  ],
+  "168840": [
+   {
+    "shot": "Wide shot, then cut to the range display, then the AWD badge",
+    "script": "Three hundred six miles of estimated range. That's what you get with this 2022 Tesla Model 3 Long Range! Dual motor all-wheel drive, battery health tested at 85.5 percent, and an Excellent rating to back it up. The Carfax shows no accidents reported. Yes, it has 108,217 miles, but this battery is holding up beautifully. Ask us about stock 168840 and take it out today. You'll be amazed how fresh a well-kept Tesla feels."
+   },
+   {
+    "shot": "Start on the steering wheel and big screen, then exit through the driver door",
+    "script": "Can a Tesla with 108,000 miles still be a great buy? Let me show you. This 2022 Model 3 Long Range tests at 85.5 percent battery health and still gets roughly 306 miles of range! All-wheel drive. No accidents reported on Carfax. It's the kind of car that proves EVs are built to go the distance. Ring Lux Automotive, mention stock 168840, and come feel it for yourself today. Seeing is believing."
+   },
+   {
+    "shot": "Film rain-ready shots: wheels, tires, AWD badge close-up",
+    "script": "Rain, cold, whatever the weather throws at you, dual motors have your back. This 2022 Tesla Model 3 Long Range has all-wheel drive, an estimated 306 miles of range, and a battery tested at 85.5 percent health. The odometer reads 108,217. No reported accidents on the Carfax. It's a long-distance champ ready for its next chapter. Drop us a note about stock 168840, and we'll get you scheduled for a drive today."
+   }
+  ],
+  "020218": [
+   {
+    "shot": "Red paint in the sun, Performance badge close-up, then the white seats",
+    "script": "Red Performance Model 3 with a white interior. Are you kidding me?! This 2021 Tesla is all-wheel drive, one owner, and has no accidents reported on Carfax. Five service records, too! Battery health tested at 84.8 percent, rated Good, with roughly 267 miles of range and 62,150 miles. Everything I just listed costs $27,995. Pull up to the lot, grab the keycard for stock 020218, and feel the Performance yourself. Trust me, the acceleration will make you grin."
+   },
+   {
+    "shot": "Start inside showing the white seats, slow reveal through the windshield of the red hood",
+    "script": "Love being noticed? Then this car was built for you! Red paint. White interior. Performance trim. This 2021 Model 3 Performance has all-wheel drive, 62,150 miles, and one owner. The Carfax shows five service records and no reported accidents. Battery health sits at 84.8 percent, with about 267 miles of range. It's priced at $27,995. Call Lux Automotive and claim it before somebody with great taste beats you to it!"
+   },
+   {
+    "shot": "Car-guy walkaround: talk about each fact while touching the part of the car",
+    "script": "Let me tell you why I love this one. It's a 2021 Model 3 Performance, red over white, with all-wheel drive. One owner kept it serviced, with five records on the Carfax and zero accidents reported. It has 62,150 miles. Battery health measured 84.8 percent, good for about 267 miles of range. The photos honestly don't do that red justice. $27,995. Stock 020218. Come see it this week and bring a friend along."
+   }
+  ],
+  "741728": [
+   {
+    "shot": "Price on screen first, then reveal the black Model 3",
+    "script": "Eighteen thousand eight ninety-five for an all-wheel-drive Long Range Tesla! This 2020 Model 3 is black on black, gets about 270 miles of estimated range, and the battery tested at 84 percent health. It has 106,036 miles and three service records on the Carfax. A dual motor Tesla for under nineteen thousand dollars? That's real, and it's sitting on our lot. Call about stock 741728 before somebody else grabs it!"
+   },
+   {
+    "shot": "First-car vibes: hand someone the keycard, they walk to the car",
+    "script": "First EV on a tight budget? This 2020 Tesla Model 3 Long Range might be the one. All-wheel drive. Roughly 270 miles per charge. Battery health at 84 percent. It has 106,036 miles and three service records. Easy decision. Black outside and in. And the price? Only $18,895. Say goodbye to the gas station for good. Message Lux Automotive today, and let's set up a relaxed test drive this week."
+   },
+   {
+    "shot": "Slow pan from rear lights to front, finish on the screen powering on",
+    "script": "The math on this one is easy. A 2020 Model 3 Long Range for $18,895. That gets you dual motor all-wheel drive, an estimated 270 miles of range, and a battery tested at 84 percent health. It has 106,036 miles and three service records on file. Black paint, black interior, totally timeless. That's a lot of Tesla for under nineteen grand. Request stock 741728, and we'll walk through the battery report together."
+   }
+  ],
+  "192141": [
+   {
+    "shot": "Show the hatch open and the cargo space, then walk to the front",
+    "script": "A Tesla Model Y for $21,495? Yes, really! This 2021 Model Y Long Range has all-wheel drive, one owner, and no accidents reported on the Carfax. Battery health tested at 83.6 percent, with an estimated 273 miles of range. White paint, black interior. It has 135,819 miles, which is exactly why the price is so friendly. Swing by for stock 192141 today, because a Model Y at this price gets a lot of calls."
+   },
+   {
+    "shot": "Family angle: open all the doors, show the back seats",
+    "script": "Growing family, tight budget, and you want to go electric? Here's your SUV. This 2021 Model Y Long Range fits the crew and gets around 273 miles per charge. All-wheel drive. Battery health at 83.6 percent. One owner and no reported accidents, with 135,819 miles. White over black. And it's only $21,495! That's an affordable way into a Model Y. Bring the kids for the test drive and let them pick their seats."
+   },
+   {
+    "shot": "Quick montage: wheel, roof glass, cargo, range screen, price text",
+    "script": "Cheapest Model Y on our lot? Pretty much! This 2021 Long Range has 135,819 miles, but look at what you still get. All-wheel drive. About 273 miles of range. A battery tested at 83.6 percent. One owner and a Carfax with no accidents. White outside, black inside, and room for everybody. Twenty-one four ninety-five. Stock 192141. DM us now, and we'll hold a test drive time for you this afternoon."
+   }
+  ],
+  "438443": [
+   {
+    "shot": "Low front shot of the red Plaid, slow dramatic push in, then the yoke or wheel",
+    "script": "Plaid. That's all you need to hear. This is a 2021 Tesla Model S Plaid, finished in red with a black interior! All-wheel drive, one owner, and 89,855 miles. The battery tested at 83.4 percent, rated Good, with an estimated 290 miles of range. It's the flagship Tesla, and it's priced at $47,495. If you've ever dreamed about owning a Plaid, ask for stock 438443 and come see it today. Dreams are allowed!"
+   },
+   {
+    "shot": "Start in the driver's seat, hands on the wheel, then hop out to the red paint",
+    "script": "Have you ever sat in a Model S Plaid? Today's your chance! This 2021 Plaid is red with a black interior and has had one owner. It's all-wheel drive, has 89,855 miles, and its battery tested at 83.4 percent health, good for roughly 290 miles of range. This is the top dog of the whole Tesla lineup, and it's $47,495. Come take a seat. Phone us right now and we'll pull it up front for you."
+   },
+   {
+    "shot": "Walkaround with dramatic pauses at each angle, ending on the rear Plaid badge",
+    "script": "Some cars just stop traffic. This red 2021 Tesla Model S Plaid is one of them. One owner. All-wheel drive. Battery health measured at 83.4 percent, with an estimated 290 miles of range. The odometer shows 89,855. It's the Model S, Tesla's big flagship sedan, in its wildest form. And it's priced at $47,495, way below what these sold for new. Stock 438443. Come see it, and get ready to grin from ear to ear."
+   }
+  ],
+  "636924": [
+   {
+    "shot": "Big price overlay, then reveal the white car",
+    "script": "Sixteen thousand four ninety-five! That's the price of this 2020 Tesla Model 3 Long Range! All-wheel drive. Estimated range around 267 miles. Battery health tested at 82.9 percent. One owner with no accidents reported on the Carfax. White paint, black interior. Yes, it has 134,479 miles, but at this price it's the cheapest way into a Tesla we've got. Stock 636924. Ring the store today, because this price will move it fast."
+   },
+   {
+    "shot": "Student angle: backpack in the trunk, then walk to the driver door",
+    "script": "College student? New driver? Here's a smart buy. This 2020 Model 3 Long Range costs just $16,495 and runs on electricity. All-wheel drive. Roughly 267 miles of range. A battery tested at 82.9 percent. One owner, and no accidents on the Carfax. It has 134,479 miles and comes in white over black. Imagine never buying gas through all four years of school. Hit us up, and let's get you in it."
+   },
+   {
+    "shot": "Walk from the front bumper, peek inside, close on the AWD badge",
+    "script": "Yes, it has 134,479 miles. Here's why that doesn't scare me one bit. This 2020 Tesla Model 3 Long Range still tests at 82.9 percent battery health and gets about 267 miles of range. It's had one owner, and its Carfax shows no accidents reported. All-wheel drive, white and black. And the price reflects the miles, at just $16,495. Drive stock 636924 yourself. You'll see what I mean in the first mile."
+   }
+  ],
+  "308309": [
+   {
+    "shot": "Black G-Wagon front grille close-up, slow pull back, then open the door to the red interior",
+    "script": "G-Wagon. Black. With a RED interior. This 2019 Mercedes-AMG G 63 is pure presence! All-wheel drive, 76,346 miles, and five service records on the Carfax. It's an icon. You know the shape, you know the sound, and you know nobody ignores it in a parking lot. It's priced at $105,995. Stop down to Lux Automotive for stock 308309, and hear that AMG fire up for yourself. You'll feel it in your chest."
+   },
+   {
+    "shot": "Start with the camera at door handle height, open the door, show the red seats",
+    "script": "How would it feel to make an entrance everywhere you go? This 2019 Mercedes-AMG G-Class G 63 does it for you. Black over red, all-wheel drive, and 76,346 miles. The Carfax shows five service records. This is the AMG version of one of the most iconic SUVs in the world. If you know, you know. $105,995. Call today and set up a private look at this legend before it finds a new garage."
+   },
+   {
+    "shot": "Slow cinematic walkaround with the boxy profile against the sky",
+    "script": "Some SUVs blend in. The G 63 never has. This 2019 Mercedes-AMG G-Class is finished in black with a red interior, and it has all-wheel drive with 76,346 miles. It's a real legend. Five service records on the Carfax. It's the boxy legend everyone wants a photo with. Priced at $105,995. Stock 308309 is waiting. Reach out, see it in person, and yes, you can sit in it for a picture."
+   }
+  ],
+  "597556": [
+   {
+    "shot": "Low angle on the RAM grille, walk to the brown interior, then the bed",
+    "script": "2023 RAM 3500 Longhorn. Diesel. Four-wheel drive. One owner! This Mega Cab truck has 50,199 miles, eight service records, and no accidents on the Carfax. Black outside with a rich brown interior that looks like it came from a saddle shop. It's built to tow and dressed to impress. Priced at $64,995. Stock 597556 is ready for you on the lot today. Bring your trailer questions, because we've got answers."
+   },
+   {
+    "shot": "Hitch close-up first, then pan up and over the truck",
+    "script": "Got something really big to pull? This truck laughs at it. A 2023 RAM 3500 Mega Cab Longhorn with diesel power and four-wheel drive. One owner. No accidents reported. Eight service records. Just 50,199 miles. Strong stuff. Black paint with a beautiful brown interior. Work truck strength with luxury comfort, priced at $64,995. Call us and let's talk trucks, towing, and everything you're planning to hook up behind it this season."
+   },
+   {
+    "shot": "Interior first: brown leather close-ups, rear Mega Cab legroom, then exit to the black paint",
+    "script": "Who's this truck for? The rancher, the hauler, and anybody who wants a truck that feels like a living room. This 2023 RAM 3500 Longhorn Mega Cab has the diesel, four-wheel drive, and acres of legroom in back. It's had one owner, eight service records, and no reported accidents, with 50,199 miles. $64,995. Stock 597556 is parked out front, so climb in and feel how much room that Mega Cab really has."
+   }
+  ],
+  "931703": [
+   {
+    "shot": "Black sedan in the shade, slow pan to the E 63 S badge, then the dash",
+    "script": "Twenty-eight service records. Seriously, think about that! This 2021 Mercedes-AMG E 63 S has been seriously taken care of. All-wheel drive, 53,417 miles, and it's black on black. It is the purest kind of sleeper. This is the sedan that looks like a business car and drives like something much wilder. Priced at $60,995. Hear stock 931703 fire up in person. Trust me, that's one cold start you'll be thinking about all week long."
+   },
+   {
+    "shot": "Talk while sitting in the driver seat, then step out and pop the hood or trunk",
+    "script": "Need four doors but refuse to drive boring? Then meet the 2021 Mercedes-AMG E 63 S. Black outside. Black inside. All-wheel drive. 53,417 miles. And the Carfax shows twenty-eight service records, which is incredible. It's a family sedan with serious AMG muscle, and it's priced at $60,995. Give Lux Automotive a call or a DM, and let's set up a drive before the weekend. You won't regret it, I promise."
+   },
+   {
+    "shot": "Sleeper theme: wide boring-looking shot, then cut fast to the AMG badge and wheels",
+    "script": "From the outside, it looks like a classy Mercedes. Then you spot the badge. E 63 S. This 2021 Mercedes-AMG is the ultimate sleeper sedan, with all-wheel drive, 53,417 miles, and twenty-eight service records on the Carfax. Black on black, understated and fierce. Priced at $60,995. Stock 931703. Stop by and find out what all the hype is about. Fair warning, you may not want to hand the keys back."
+   }
+  ],
+  "C20916": [
+   {
+    "shot": "Lariat badge close-up, then the long 8-foot bed, then the cab interior",
+    "script": "Ford F-350 Lariat with an eight-foot bed! This 2023 Super Duty Crew Cab has diesel power, four-wheel drive, and a one-owner Carfax with eight service records. Gray paint, black interior, and serious capability. It's got 136,233 miles, which is why it's priced at $51,495. A late-model Lariat diesel for that kind of money? That's a lot of truck. Call about stock C20916 today, and we'll pull it up front for you."
+   },
+   {
+    "shot": "Show the bed empty, toss in a tool bag, then the front of the truck",
+    "script": "Contractors, this one's for you. A 2023 Ford F-350 Crew Cab Lariat with a full eight-foot bed. Diesel. Four-wheel drive. One owner and eight service records. Its 136,233 miles are proof that it's been working, and it's ready for more. Gray on black, ready for the job site Monday morning. Priced at $51,495. Message us and let's put it to work for you this week. Your crew will thank you."
+   },
+   {
+    "shot": "Driver POV climbing in, then a wide shot of the full truck",
+    "script": "What does $51,495 buy you these days? A 2023 Ford F-350 Super Duty Lariat, that's what! Diesel engine. Four-wheel drive. A crew cab with an eight-foot bed. It's had one owner and eight service records. Yes, it has 136,233 miles, but that's highway life for a Super Duty. A real workhorse. Gray outside, black inside. Climb up into the driver's seat, and feel how high you sit in this thing."
+   }
+  ],
+  "082970": [
+   {
+    "shot": "Black Bentley front grille, slow walk to the profile, then the black cabin",
+    "script": "A Bentley Continental GT for $47,295?! This 2013 coupe is black on black with all-wheel drive, 57,556 miles, and no accidents reported on the Carfax. Four service records, too. It's British luxury with that long, gorgeous coupe shape, and it turns heads everywhere it goes. This is how you show up in style. Book a look at stock 082970 and see it in person today. Honestly, you deserve this one."
+   },
+   {
+    "shot": "Hand running along the hood and fender, then open the long coupe door",
+    "script": "When's the last time you touched a Bentley? Come down and touch this one. It's a 2013 Bentley Continental GT, black over black, with all-wheel drive and just 57,556 miles. The Carfax shows no accidents and four service records. That's Bentley luxury at a used-car price of $47,295. Phone Lux Automotive today and treat yourself to a test drive you'll be talking about for weeks. Go ahead, you have absolutely earned it."
+   },
+   {
+    "shot": "Cinematic slow pan along the coupe at sunrise",
+    "script": "Picture this, okay? Pulling up to dinner in a black Bentley. That could be your weekend. This 2013 Continental GT Coupe has all-wheel drive, 57,556 miles, a no-accident Carfax, and four service records. Black interior, black paint, and nothing but class. You don't need a Bentley budget, either, since it's $47,295. Stock 082970. Message us to see it, and get ready for people to stare at you at red lights."
+   }
+  ],
+  "004344": [
+   {
+    "shot": "White paint and AMG GT 53 badge close-up, then the black interior",
+    "script": "Forty service records! This 2019 Mercedes-AMG GT 53 four-door has been pampered. Turbo V6, all-wheel drive, white paint, black interior, and 86,027 miles. It's a sleek AMG with room for your friends in back. And it's priced at $43,295, which is a lot of AMG for the money. Mention stock 004344 when you call, then come feel that turbo V6 wake up. One drive and you'll understand exactly why people love these cars."
+   },
+   {
+    "shot": "Low rear shot of the fastback, slow sweep up to the roofline",
+    "script": "Who says a sports car can't have four doors? This 2019 Mercedes-AMG GT 53 has the turbo V6, all-wheel drive, and a gorgeous fastback shape. White outside, black inside. 86,027 miles. And the Carfax shows forty service records, which might honestly be a record on our lot. $43,295, with forty documented visits behind it. Call us and set up your drive, and feel that turbo six for yourself. You'll be hooked after the first on-ramp."
+   },
+   {
+    "shot": "Walkaround with quick cuts to the wheels, roofline, and cockpit",
+    "script": "Okay, look at the lines on this thing! The 2019 Mercedes-AMG GT 53 Sedan is all swoops and curves, with a 3.0-liter turbo V6 and all-wheel drive. It has 86,027 miles. White paint, black interior. Forty service records on the Carfax tell you somebody really cared. Price is $43,295, honestly a bargain for this much AMG. Stock 004344. Come take a closer look at Lux Automotive, and run your hand along that roofline in person."
+   }
+  ],
+  "206727": [
+   {
+    "shot": "Front grille, then the Mega Cab back seat legroom, then the bed",
+    "script": "Nineteen service records and no accidents reported! This 2020 RAM 2500 Mega Cab Laramie is a diesel with four-wheel drive and a super roomy cab. Black outside, black inside, and a clean look all around. It's got 135,440 miles and a price of $40,295. Room to stretch out, too. Laramie comfort with diesel toughness, ready for your next big tow. Come climb into stock 206727, because trucks like this don't wait around."
+   },
+   {
+    "shot": "Open the rear doors and show off the Mega Cab space",
+    "script": "Need a truck that fits the whole crew? The Mega Cab was made for exactly that. This 2020 RAM 2500 Laramie has massive rear legroom, a diesel engine, and four-wheel drive. It shows 135,440 miles, no reported accidents, and nineteen service records. Black on black. It tows on Monday and hauls the family on Sunday. $40,295. Ring us today, and let's take it out for a spin together this afternoon."
+   },
+   {
+    "shot": "Pan from bumper to tailgate in one slow shot, then the Laramie badge",
+    "script": "Want a heavy-duty truck with a serious paper trail? Here you go: nineteen service records on the Carfax, and no accidents reported. It's a 2020 RAM 2500 Mega Cab Laramie, diesel, four-wheel drive, black on black, with 135,440 miles. It's ready for trailers, campers, and anything else you throw at it. $40,295. Stock 206727. Send a message and come take a look this week, before the weekend rush hits our lot."
+   }
+  ],
+  "016415": [
+   {
+    "shot": "Gray exterior wide shot, then open the door to reveal the red interior",
+    "script": "Red interior alert! This 2021 Audi SQ7 Premium Plus pairs gray paint with a red cabin, and it is stunning. All-wheel drive, no accidents reported, fourteen service records, and 79,423 miles. It's a three-row family SUV with S-model performance baked in. It's priced at $35,495, which is great money for an SQ7. Ask for stock 016415 and come see that interior in person, because photos honestly don't do it justice. You'll fall for it instantly."
+   },
+   {
+    "shot": "Show the third row folding up, then the driver's seat",
+    "script": "Third row for the kids. S performance for you. That's the 2021 Audi SQ7! This Premium Plus has all-wheel drive, 79,423 miles, and a clean Carfax with no accidents and fourteen service records. Gray outside with a bold red interior. Honestly, it's the coolest way to do carpool that I know of. $35,495. Message us today and let's get you in, and the kids can fight over who sits where."
+   },
+   {
+    "shot": "Sporty quick-cut montage of the badges, wheels, seats, steering wheel",
+    "script": "Minivan? No thanks, not today. Let's do this instead. A 2021 Audi SQ7 Premium Plus, the sporty three-row SUV with all-wheel drive. It shows 79,423 miles, nicely documented. The red seats alone are worth the trip. No reported accidents. Fourteen service records on the Carfax. Gray paint, red interior, and total attitude. It's family-friendly without feeling like a compromise at all. Priced at $35,495. Stock 016415. Come drive it today, and see if you can stop smiling."
+   }
+  ],
+  "A81000": [
+   {
+    "shot": "Platinum badge close-up, then the white paint, then low-mileage odometer",
+    "script": "Just 47,669 miles on a Ford F-150 Platinum! This 2016 SuperCrew is white with a black interior, with four-wheel drive, one owner, no accidents, and eighteen service records on the Carfax. Platinum is the top-shelf F-150 trim. Low miles, a clean history, and fully loaded trim, all priced at $34,995. It is a real gem, honestly. Give stock A81000 a look in person today, because one-owner Platinums like this sell fast."
+   },
+   {
+    "shot": "Start inside showing the Platinum interior, then step out to the truck bed",
+    "script": "Ever met a truck that's been babied? Look at this one right here. A 2016 Ford F-150 Platinum with one owner, eighteen service records, and no accidents on the Carfax. Only 47,669 miles! Four-wheel drive, white paint, black interior. It's the luxury F-150 that still loves a hard day of work. $34,995. Phone the store and set up a test drive this week, and see for yourself how clean it really is."
+   },
+   {
+    "shot": "Wide walkaround in morning light ending at the tailgate",
+    "script": "Who's this F-150 for? Somebody who wants a nice truck without inheriting somebody else's mess. One owner. Eighteen service records. No reported accidents. Only 47,669 miles. It's a keeper. It's a 2016 F-150 SuperCrew Platinum with four-wheel drive, white over black. Clean, loaded, comfortable, and ready for you at $34,995. Stock A81000. DM us today and come see it, because trucks with a history like this one don't sit around."
+   }
+  ],
+  "C17123": [
+   {
+    "shot": "Lariat badge, then the white paint, then the service-records count overlaid on screen",
+    "script": "Thirty-four service records! That's what a cared-for work truck looks like, folks. This 2020 Ford F-350 Super Duty Lariat is a diesel with four-wheel drive, one owner, and no accidents reported. White paint over a black interior. Yes, it has 187,322 miles, and that's exactly why it's only $34,495. Diesels are made for miles, and this one has the paperwork to prove it. Swing over today and see stock C17123 up close!"
+   },
+   {
+    "shot": "Hook the camera to the hitch area, then pan up the tailgate",
+    "script": "Want a Super Duty without the Super Duty price tag? Check this out. A 2020 Ford F-350 Crew Cab Lariat, diesel, four-wheel drive, for $34,495. It's had one owner and thirty-four service records, with no reported accidents. The 187,322 miles came from working, and it's ready for plenty more. White over black. Give us a ring and let's go for a ride. Bring your trailer questions, because this truck is ready to earn."
+   },
+   {
+    "shot": "Walk the length of the truck, ending in the driver seat",
+    "script": "Here's the truth about diesels. They run, and they keep running. This 2020 F-350 Lariat proves it with 187,322 miles and thirty-four service records on the Carfax. It's built to last. One owner. No accidents reported. Four-wheel drive. White paint, black Lariat interior. It's a workhorse at a smart price of $34,495. Stock C17123. Request a walkaround, and we'll pull up the full Carfax so you can read every visit."
+   }
+  ],
+  "271893": [
+   {
+    "shot": "Long 8-foot bed shot from the tailgate, then walk to the cab",
+    "script": "Eight-foot bed, 2020 RAM 3500, $34,295? Let's go! This Tradesman Crew Cab is a diesel built for work. Only 69,457 miles and twenty-seven service records on the Carfax. Built for jobs, not showrooms. White paint with a gray interior. Plain, tough, and ready to earn its keep from day one. Grab stock 271893 and put it to work. Your next job site is going to love having this truck parked out front."
+   },
+   {
+    "shot": "Toss a ladder or lumber in the bed (or mime it), then show the cab",
+    "script": "It's for the tradesman. It's literally in the name! This 2020 RAM 3500 Crew Cab Tradesman has a diesel engine, an eight-foot bed, and room for the whole crew. It shows 69,457 miles and twenty-seven service records. White over gray. No frills, all work, priced at $34,295. Call the store and get it on the job this week. It's ready to haul plywood, pipe, or whatever your trade throws at it."
+   },
+   {
+    "shot": "Close on the odometer, then step out and do a full walkaround",
+    "script": "Low miles on a heavy-duty diesel? Yes! This 2020 RAM 3500 Tradesman has only 69,457 miles. Simple and strong. Crew cab, eight-foot bed, and twenty-seven service records on the Carfax. White paint, a gray interior, and plenty of muscle. This is what you buy when you need a truck that simply works, day in and day out. $34,295. Stock 271893. Book a walkaround today, and see how clean that long bed is."
+   }
+  ],
+  "210240": [
+   {
+    "shot": "Denali grille close-up, slow pull back, then the cab interior",
+    "script": "Denali! The luxury Sierra. This 2020 GMC Sierra 2500 HD Denali is a diesel with four-wheel drive, one owner, and no accidents reported. Forty-three service records! That's an owner who never skipped maintenance. White on black. It has 209,043 miles, which is why it's priced at just $32,495. Denali comfort at this price is honestly hard to find anywhere. Set up a walkaround of stock 210240 this week and judge it yourself."
+   },
+   {
+    "shot": "Show the Carfax service count on a phone next to the truck",
+    "script": "Forty-three service records. I'll say it again. Forty-three! This 2020 GMC Sierra 2500 HD Denali was clearly maintained by an owner who cared, and it's had just one. Diesel. Four-wheel drive. No reported accidents. White paint, black interior. 209,043 miles, and still ready to go to work. That's dedication. $32,495. Call us today, ask for the white Denali, and we'll show you every one of those service records in person."
+   },
+   {
+    "shot": "Driving-away shot from behind, then a quick cut back to a close-up of the Denali badge",
+    "script": "Craving a premium heavy-duty truck without paying premium money? Here's your answer. The 2020 GMC Sierra 2500 HD Denali. Diesel power, four-wheel drive, one owner, and no accidents reported. White outside, black inside. It has 209,043 miles, but forty-three service records back it up. It's a rare find. Priced at $32,495. Stock 210240. Book a look right away, because a one-owner Denali diesel with this much documented maintenance is a rare find."
+   }
+  ],
+  "P51455": [
+   {
+    "shot": "Gray BMW front view, slow push on the kidney grille, then the black interior",
+    "script": "A 2023 BMW X5 for under thirty grand! This sDrive40i is gray with a black interior and priced at $29,995. It has only 60,067 miles and two service records on the Carfax. The cabin is gorgeous. That's a late-model German luxury SUV at a price that feels too good to be true. But it's true! Test drive stock P51455 around town today, so you can feel how smooth it rides."
+   },
+   {
+    "shot": "Start inside showing the cockpit, then open the rear hatch",
+    "script": "Have you been looking at BMW X5s? Look at this one before you buy anything. A 2023 X5 sDrive40i. Gray over black. 60,067 miles. Two service records. And the price? $29,995. That's a nearly new BMW SUV for what a lot of people pay for economy cars. Seriously, call the store and schedule a test drive today. Once you sit in that cockpit, you'll understand why I'm so excited about this one."
+   },
+   {
+    "shot": "Quick montage: roundel badge, wheels, seats, hatch, price text",
+    "script": "Luxury doesn't have to cost a fortune, and this 2023 BMW X5 sDrive40i proves it. You get the BMW badge, gray paint, a black interior, and just 60,067 miles. It's rear-wheel drive, with two service records on the Carfax. It's ready to upgrade your daily drive for $29,995. Stock P51455. Send a quick message, and let's get you behind the wheel of a late-model BMW this week. You'll love it."
+   }
+  ],
+  "176949": [
+   {
+    "shot": "LTZ badge close-up, then cab interior, then the full truck",
+    "script": "Silverado HD LTZ, diesel, one owner, thirty service records! This 2020 Chevrolet Silverado 2500 HD Crew Cab has four-wheel drive and no accidents reported on Carfax. White over black. It has 191,583 miles, and that's why it's priced at just $29,295. Diesel trucks are built to love miles, and this one was serviced the whole way. It's a strong, honest truck. Bring your trailer by for a test pull on stock 176949."
+   },
+   {
+    "shot": "Camera on the dash, then hop out and do a walkaround",
+    "script": "So what does $29,295 get you in a heavy-duty truck? A 2020 Chevy Silverado 2500 HD LTZ diesel with four-wheel drive! One owner. No reported accidents. Thirty service records on the Carfax. White paint, black interior, and that comfy LTZ trim. It has 191,583 miles, all well documented. Ring Lux Automotive, ask for stock 176949, and come take it out for a real drive this week. Bring your work boots, too."
+   },
+   {
+    "shot": "Start at the hitch, then walk along the side to the front grille",
+    "script": "Big job? Long haul? This truck has done it all, and it was maintained every step of the way. This 2020 Chevrolet Silverado 2500 HD LTZ Crew Cab has one owner, thirty service records, and no accidents reported. Diesel. Four-wheel drive. White on black. 191,583 miles. And it's ready for the next chapter at $29,295. Stock 176949. Text ahead, and we'll have it fired up and idling when you arrive."
+   }
+  ],
+  "D92274": [
+   {
+    "shot": "Long 8-foot bed, then the gray cab interior, then the front grille",
+    "script": "Work truck alert! This 2020 Ford F-350 Super Duty XL Crew Cab is a diesel with four-wheel drive and an eight-foot bed. One owner. No accidents reported. Eighteen service records. Gray inside and out. It has 197,862 miles and a price of only $27,995. Strong and simple. Honestly, it's one of the best values in heavy-duty trucks on our lot right now. Put stock D92274 to work for you this week."
+   },
+   {
+    "shot": "Show the bed with straps or tools, then the crew cab back seat",
+    "script": "Who needs an F-350 XL? Contractors, landscapers, and anyone pulling a trailer. This 2020 Super Duty Crew Cab has a diesel, four-wheel drive, and a full eight-foot bed. It's had one owner and eighteen service records, with no reported accidents. It shows 197,862 miles. Gray over gray. Priced at $27,995. Call us and let's talk business. We'll get you in the seat and out on the road in no time."
+   },
+   {
+    "shot": "Quick cuts timed to the beats: grille, wheel, bed, cab, keys",
+    "script": "Diesel. Four-wheel drive. Eight-foot bed. One owner. That's this 2020 Ford F-350 Super Duty XL in a nutshell, and honestly, it's a lot of truck for $27,995. It has 197,862 miles, eighteen service records on Carfax, and no accidents reported. It's a real worker. Simple gray paint and a gray interior, built for business, not for show. Stock D92274. Reach out today and see what a working truck should look like."
+   }
+  ],
+  "SENAD123": [
+   {
+    "shot": "Black Range Rover profile shot, then the black interior and long wheelbase rear seat",
+    "script": "A Range Rover Supercharged LWB for $26,495! This 2019 has the long wheelbase for extra rear legroom, four-wheel drive, and no accidents reported. There are twenty-four service records on the Carfax, too. Black on black, and absolutely regal. It's got 97,358 miles on it. Pure class. Luxury like this usually costs a whole lot more. Visit stock SENAD123 and feel like royalty. You may never want to drive anything else again."
+   },
+   {
+    "shot": "Sit in the rear seat and stretch out your legs, then step out",
+    "script": "Want to ride in the back seat like a VIP? The long wheelbase Range Rover lets you. This 2019 Range Rover Supercharged LWB is black inside and out, with four-wheel drive and 97,358 miles. Pure comfort. The Carfax shows no accidents and twenty-four service records. That's a luxury SUV at a used-car price, $26,495. Call us today, come stretch out in that back seat, and see what everyone's been talking about."
+   },
+   {
+    "shot": "Slow walkaround with the doors opening one at a time",
+    "script": "Let's be completely honest here. This is one of the classiest SUVs on the road. A 2019 Range Rover Supercharged LWB, black over black, with four-wheel drive. It has 97,358 miles, no reported accidents, and twenty-four service records, so it's a very well-documented Range Rover. Pure luxury. And the price is just $26,495, which is wild for this much luxury. Stock SENAD123. Book your look today, before somebody else does."
+   }
+  ],
+  "230288": [
+   {
+    "shot": "Laramie badge, black paint, then the Mega Cab back seat",
+    "script": "Under twenty-five thousand for a RAM 2500 Mega Cab Laramie diesel! This 2016 is black on black, with four-wheel drive, one owner, and eight service records on the Carfax. It has 156,446 miles. Mega Cab space is huge. A Laramie diesel with that big cab at $24,995? That's a deal, plain and simple. Stock 230288 is waiting, so get here before somebody with a camper beats you here. Seriously, don't wait on it."
+   },
+   {
+    "shot": "Hitch close-up, then the full truck walkaround",
+    "script": "Got a camper? A boat? Here's your tow rig. This 2016 RAM 2500 Mega Cab Laramie brings the diesel, four-wheel drive, and a cab with tons of legroom. One owner. Eight service records. 156,446 miles. Black paint, black interior. Everything I just named for $24,995. Phone us before somebody beats you to it! We'll pull it up front so you can check out the cab and the hitch in person."
+   },
+   {
+    "shot": "Start inside on the Laramie seats, then the back seat, then exit",
+    "script": "Mega Cab means mega room. This 2016 RAM 2500 Laramie has the biggest cab RAM offers, plus a diesel engine and four-wheel drive. It's had one owner and eight service records on file. It shows 156,446 miles. Black inside and out. If you need a family truck that also tows, this is it, at $24,995. Stock 230288. Message us and come climb in the back seat to see how roomy it really is."
+   }
+  ],
+  "356660": [
+   {
+    "shot": "Black paint walkaround, then open the door to show the red interior",
+    "script": "Black paint. Red leather. AMG badge. This 2018 Mercedes-AMG E 43 is all attitude for just $21,495! All-wheel drive, no accidents reported on the Carfax, six service records, and 89,313 miles. It's a real head-turner. It's a sport sedan that looks expensive because it was expensive. Now it's priced like a regular car. Visit stock 356660 and see that red interior in person. Fair warning, it might steal your heart."
+   },
+   {
+    "shot": "Start tight on the red seats, then pan out through the windshield",
+    "script": "Guess how much an AMG costs these days. Less than you'd guess! This 2018 Mercedes-AMG E 43 Sedan is $21,495. It has all-wheel drive, 89,313 miles, and a Carfax with no reported accidents and six service records. Black outside with a bold red interior. Honestly, it's a lot of car for the money. Call us and set up your test drive, and get ready for all the compliments on that red leather."
+   },
+   {
+    "shot": "Slow 360 at waist height, pausing on the AMG badge",
+    "script": "This car is for anybody who wants a Mercedes that's actually fun to drive. The 2018 Mercedes-AMG E 43 is it. All-wheel drive. 89,313 miles. That's real AMG attitude for way less than you'd expect, with four doors for your friends. No accidents reported. Six service records. And look at this black and red combo, it's gorgeous. Sport sedan, everyday comfort, $21,495. Stock 356660. Book a drive soon, because AMGs at this price don't sit around long."
+   }
+  ],
+  "079302": [
+   {
+    "shot": "Audi rings close-up, black paint, then the black interior",
+    "script": "A 2022 Audi Q5 for $19,295? Absolutely! This 45 TFSI S Line Premium Plus is black on black with all-wheel drive. It has ten service records on the Carfax and 60,944 miles. The cabin feels far pricier than the sticker suggests. That's a late-model luxury SUV at an economy-car price. And the S Line styling looks sharp from every angle. Walk in, ask for stock 079302, and spin it around town while you're here."
+   },
+   {
+    "shot": "Hatch opening, show cargo space, then the front seats",
+    "script": "Want an SUV that feels upscale without a huge payment? Look right here. A 2022 Audi Q5 S Line Premium Plus with all-wheel drive. It has 60,944 miles and ten service records. Black outside, black inside, elegant, sporty, and understated. And the price is just $19,295. Ring the store, ask for stock 079302, and take it for a drive. You'll feel the difference the moment you settle into that seat."
+   },
+   {
+    "shot": "Price-reveal: point at the car, then pop up the price with excitement",
+    "script": "Guess what this 2022 Audi Q5 costs. Go ahead, guess! Thirty? Twenty-five? Nope. $19,295! That's a 2022 Q5 45 TFSI S Line Premium Plus with all-wheel drive, 60,944 miles, and ten service records on the Carfax. Black on black, and very sharp. That's a lot of Audi for the money. Stock 079302. Message us now, and come see why this might be the best value on our entire lot this week."
+   }
+  ],
+  "104842": [
+   {
+    "shot": "Gray RAM front view, walk to the bed, then the gray interior",
+    "script": "Need a full-size work truck under twenty grand? This 2018 RAM 2500 Tradesman Crew Cab is $18,295! Gray inside and out, eight service records on the Carfax, and 105,682 miles. No nonsense, just work. It's a heavy-duty RAM ready for the job site. Simple, tough, and affordable. If you need a dependable work truck on a budget, this is the one to beat. Call ahead for stock 104842 and drive it today."
+   },
+   {
+    "shot": "Start at the bed loading tools, then the crew cab back seat",
+    "script": "Starting a business and need a real truck without a huge loan? This 2018 RAM 2500 Tradesman Crew Cab has room for the crew and a bed for the gear. It has 105,682 miles and eight service records. Gray over gray. Priced at $18,295. Call us and let's get you working. We'll have it warmed up and ready for a test drive whenever you can swing by the lot today."
+   },
+   {
+    "shot": "Wide shot, then quick cuts: wheels, cab, dash, tailgate",
+    "script": "Heavy duty. Crew cab. Clean and simple. Eight service records. And eighteen thousand two ninety-five! This 2018 RAM 2500 Tradesman isn't fancy, and that's the whole point. It's a tough, honest truck with 105,682 miles that's ready to haul whatever you've got. It's built for real work. Gray paint, gray interior. Stock 104842. Fire off a quick message about it, and bring your toolbox, because this truck is ready to go to work."
+   }
+  ],
+  "530962": [
+   {
+    "shot": "Slide the doors open, show the seats, then the front of the van",
+    "script": "A 2023 Chrysler Pacifica Limited for $18,295! The Limited is the top trim. This one is gray with a black interior, has had one owner, and shows 85,614 miles, plus a service record on file. It's comfy. Sliding doors, room for everybody, and a premium cabin. Moms and dads, this is the family upgrade you've been waiting for. Visit stock 530962 today, and bring the car seats for a test fit!"
+   },
+   {
+    "shot": "Family vibe: pile bags or car seats in, then close the sliding door",
+    "script": "Is your family outgrowing your car? This is your upgrade. A 2023 Chrysler Pacifica Limited minivan with one owner and 85,614 miles. Top Limited trim. Gray outside, black inside. Tons of space for kids, gear, groceries, and road trips. And it's priced at just $18,295. Call us and let's get the whole family in for a test drive. We'll even help you figure out where all the car seats go."
+   },
+   {
+    "shot": "Humor angle: say 'minivans are cool now' and do a slow-mo walk",
+    "script": "Minivans are cool now. I said what I said! Especially this one. It's a 2023 Chrysler Pacifica Limited, gray with a black interior, one owner, and 85,614 miles. It's practical. The Limited trim is the fancy one. Sliding doors, plenty of room, all the comfort. At $18,295, it's a smart buy for a growing family. Stock 530962. Swing by today, and see why the coolest parents in town drive minivans."
+   }
+  ],
+  "319074": [
+   {
+    "shot": "Tahoe front grille, then the beige interior, then the third row",
+    "script": "A Chevy Tahoe Premier for $17,295! This 2017 is gray with a beige interior, no accidents reported, and twenty-eight service records on the Carfax. Premier is the top Tahoe trim. It has 134,615 miles. Premier means leather and comfort everywhere you sit. Big, comfortable, and roomy enough for the whole crew and their gear. Grab a look at stock 319074 today, because full-size SUVs at this price disappear from our lot quickly."
+   },
+   {
+    "shot": "Open all the doors and show off the seating, then the cargo",
+    "script": "Got a big crew? Then you need to look at the Tahoe. This 2017 Chevrolet Tahoe Premier is a big, comfortable SUV with a beige interior. Gray outside. No accidents reported. Twenty-eight service records. 134,615 miles. Plush seats, too. Rear-wheel drive. Priced at $17,295. Call us and bring the whole family to see it. Everybody gets a seat, nobody has to squeeze, and you'll still have room left over for the cooler."
+   },
+   {
+    "shot": "Walkaround with emphasis on the size: stand next to it for scale",
+    "script": "Look at the size of this thing, seriously! This is a 2017 Chevy Tahoe Premier, the fanciest Tahoe you can get. It's gray with a beige interior, and the Carfax shows twenty-eight service records and no reported accidents. It has 134,615 miles. It's a whole lot of SUV. Big SUV, smart price, $17,295. Somebody's going to grab this one soon. Stock 319074. Get in touch today, and make sure that somebody is you."
+   }
+  ],
+  "154943": [
+   {
+    "shot": "Mercedes star close-up, then the third row, then the black interior",
+    "script": "A Mercedes GLS 450 for $14,995! This 2018 4MATIC is gray with a black interior, and it has all-wheel drive and a third row. The Carfax shows twenty-seven service records. It has 100,380 miles. That's a full-size luxury SUV for the price of a used compact car. Seriously, this might be the deal of the week. Get to the lot early and ask for stock 154943, before somebody else does."
+   },
+   {
+    "shot": "Kids-in-the-back angle: open the rear doors, show the third row up",
+    "script": "Need a third row and want a Mercedes badge? This is the one. A 2018 Mercedes-Benz GLS 450 4MATIC with all-wheel drive and three rows of seats. Gray over black. 100,380 miles. Twenty-seven service records on the Carfax, so it's been looked after. And it's only $14,995. Ring us and bring the family to see it. We'll fold down the seats so you can see just how much room it has."
+   },
+   {
+    "shot": "Slow walkaround in morning light ending at the 4MATIC badge",
+    "script": "Here's a fun question for you. Can you get a Mercedes three-row SUV under fifteen grand? Today you can. This 2018 GLS 450 4MATIC is $14,995. All-wheel drive. Gray paint, black interior. 100,380 miles. That's a serious amount of SUV. Twenty-seven service records. It's luxury, space, and value all rolled into one. Stock 154943. Hit our inbox before it's gone, because a Mercedes SUV at this price is not going to last long."
+   }
+  ],
+  "244825": [
+   {
+    "shot": "Blue paint in the sun, then the black interior, then the third row",
+    "script": "Under fifteen thousand for a 2022 Nissan Pathfinder! This SV is blue with a black interior, with four-wheel drive, one owner, and four service records on the Carfax. Three rows of seats for the whole crew. It has 124,812 miles, which is why the price is just $14,495. A late-model three-row SUV at this price is rare. Line up a test drive of stock 244825 this week, before it's gone for good."
+   },
+   {
+    "shot": "Hold up three fingers, then show each row of seats",
+    "script": "Three rows. Four-wheel drive. One owner. That's this 2022 Nissan Pathfinder SV! It's blue with a black interior, and the Carfax shows four service records. It has 124,812 miles. Room for the kids, the friends, and the dog. That's a late-model SUV at only $14,495. Call us, ask for stock 244825, and come take a look today. Bring the kids, and see who calls dibs on the back row first."
+   },
+   {
+    "shot": "Family road-trip angle: open the hatch with a cooler, then close",
+    "script": "Road trip season? This is your ride. A 2022 Nissan Pathfinder SV with four-wheel drive and three rows of seats. Blue paint, black interior. One owner and four service records. It's got 124,812 miles, so the price is a friendly $14,495. Room for everyone. Pack the cooler, load the kids, and go! Stock 244825. Get in touch to see it, because family SUVs like this one go fast this time of year."
+   }
+  ],
+  "048954": [
+   {
+    "shot": "Gray Tiguan walkaround, then the 4Motion badge, then the cabin",
+    "script": "Thirteen thousand nine ninety-five for a 2022 Volkswagen Tiguan! This SE 4Motion is gray on black with all-wheel drive. No accidents reported, and twelve service records on the Carfax! It has 128,637 miles. A late-model compact SUV with a clean history at this price is hard to find. It's perfect for commuting, errands, and weekend trips. Ask our team for stock 048954, and let's go for a drive today. We'd love to toss you the keys."
+   },
+   {
+    "shot": "Start in the driver seat, then show the rear seats and cargo",
+    "script": "Hunting for a dependable small SUV that won't break the bank? Check out this 2022 VW Tiguan SE. All-wheel drive with 4Motion. No reported accidents. Twelve service records. Gray outside, black inside, and 128,637 miles. It's a sensible, well-kept little SUV. It's perfect for commuting and weekend errands, priced at $13,995. Pick up the phone, set up a test drive today, and see how easy it is to fall for this little SUV."
+   },
+   {
+    "shot": "Weather angle: close-up of the tires and 4Motion badge, then a wide shot",
+    "script": "Snow? Rain? This little SUV doesn't care! It's a 2022 Volkswagen Tiguan SE with 4Motion all-wheel drive. The Carfax shows no accidents and twelve service records. Gray paint, black interior. 128,637 miles. It's a practical, clean, all-weather daily driver for $13,995. Stock 048954. Grab a test drive this week, just give us a holler first. Once you feel how confident it is in the rain, you'll wonder why you waited."
+   }
+  ],
+  "008568": [
+   {
+    "shot": "Red RAV4 front view, then the beige interior, then the cargo area",
+    "script": "Fifteen service records and no accidents! This 2019 Toyota RAV4 LE has clearly been taken care of. Red paint, beige interior, and it's priced at just $13,995. It has 135,303 miles, but come on, it's a Toyota RAV4, and these things are famous for going and going. It's a smart, sensible SUV with a history you can trust. Stock 008568 is parked by the front door, so swing in before somebody else grabs it!"
+   },
+   {
+    "shot": "Start with the keys on the hood, grab them, hop in the driver seat",
+    "script": "Who's this RAV4 for? The person who just wants something that starts every morning, no drama, no surprises. This 2019 Toyota RAV4 LE has a Carfax with no accidents and fifteen service records. Red outside, beige inside. It shows 135,303 miles, all well documented. And it's only $13,995. Phone us and let's get you a test drive this week. Dependable, affordable, and ready to go, exactly the way a Toyota should be."
+   },
+   {
+    "shot": "Bright red paint close-ups in the sun, then a full walkaround",
+    "script": "Look at that red! This 2019 Toyota RAV4 LE absolutely pops in the morning sunlight. It's got a beige interior, front-wheel drive, and a Carfax with no reported accidents and fifteen service records. It has 135,303 miles. It's an easy, affordable SUV for school, work, or anything in between, at $13,995. Stock 008568. Send us a message and come see that red paint in person. Pictures honestly don't do it justice."
+   }
+  ],
+  "040655": [
+   {
+    "shot": "Silver CR-V exterior, then the gray interior and navigation screen",
+    "script": "A Honda CR-V EX-L with navigation for $12,295! This 2018 is silver with a gray interior, and it has all-wheel drive, one owner, and twenty-four service records on the Carfax. It has 167,571 miles. Hondas are built to keep going, and this one has been maintained like it matters. It's a smart buy for anybody on a budget who needs space. Reserve stock 040655 for a test drive, and see it in person today."
+   },
+   {
+    "shot": "Show the leather seats and the nav screen, then step out",
+    "script": "Want leather and navigation without a big monthly payment? This 2018 Honda CR-V EX-L has both. All-wheel drive. One owner. Twenty-four service records. Silver paint, gray interior. It has 167,571 miles, so the price is a very friendly $12,295. Leather seats make every commute nicer. Ring the store and ask for stock 040655. Our team will have it pulled around front, and you can see for yourself how well this Honda has been cared for."
+   },
+   {
+    "shot": "Walk around the car pointing at each feature as you say it",
+    "script": "Twenty-four service records. One owner. All-wheel drive. That's a well-loved Honda CR-V right there! This 2018 EX-L with navigation is silver over gray, and it has 167,571 miles. It's dependable, comfortable, and affordable at just $12,295. It would make a perfect first SUV, or a great family runabout for errands and practice. Stock 040655. Message the store, and grab a test drive while this one is still on our lot."
+   }
+  ],
+  "021514": [
+   {
+    "shot": "Price on screen first, then the blue Tiguan reveal",
+    "script": "Under ten thousand dollars! This 2018 Volkswagen Tiguan 2.0T SE is just $9,495! Blue with a black interior, no accidents reported, and twenty-seven service records on the Carfax. It has 119,410 miles. It's an honest little SUV with a great paper trail. A clean-history SUV under ten grand? Those are seriously hard to find, folks. Text the store about stock 021514 soon, because at $9,495 it's not going to sit on our lot for very long at all."
+   },
+   {
+    "shot": "Teen driver angle: hand over the keys, they climb in",
+    "script": "Shopping for your teenager's first car? Here's a solid pick. A 2018 VW Tiguan SE with no accidents on the Carfax and twenty-seven service records. Blue paint, black interior. It has 119,410 miles, with a documented history. Front-wheel drive, roomy, and practical for school and practice. And it's only $9,495! Call us and bring the new driver by today. We'll go over everything with you, nice and easy, with zero pressure."
+   },
+   {
+    "shot": "Quick montage of the blue paint, turbo badge, cabin, and cargo",
+    "script": "Blue SUV. Turbo engine. Nine thousand four ninety-five. This 2018 Volkswagen Tiguan 2.0T SE is our budget buy of the week! The Carfax shows twenty-seven service records and no reported accidents. It has 119,410 miles. Seriously, that's a lot for the money. Black interior with plenty of space for passengers and cargo. Cheap, clean, and ready to roll. Stock 021514. Pop into our inbox, and see how much SUV ten grand really buys."
+   }
+  ],
+  "576519": [
+   {
+    "shot": "Big Horn badge close-up, then the bed, then the cab interior",
+    "script": "A 2025 RAM 2500 Big Horn diesel! This Crew Cab is one of the newest trucks on our lot, with four-wheel drive, one owner, no accidents reported, and ten service records already on the Carfax. It has 65,914 miles. It's barely broken in. Heavy-duty, late-model, and ready for anything you can hook up to it. Request stock 576519 today, because a 2025 diesel like this won't sit around on our lot."
+   },
+   {
+    "shot": "Hitch close-up, then walk forward to the grille",
+    "script": "Why pay new-truck money when you can get a 2025 right here? This RAM 2500 Crew Cab Big Horn has a diesel, four-wheel drive, and one owner. The Carfax shows no accidents and ten service records. It's got 65,914 miles of work under its belt, and it's ready for a whole lot more. Give us a ring and ask about stock 576519 today. We'll have the keys ready and the truck warmed up."
+   },
+   {
+    "shot": "Start inside, show the back seat, then the full truck from the front",
+    "script": "Heavy-duty power and nearly new? That's the dream, right? This 2025 RAM 2500 Big Horn Crew Cab brings the diesel, four-wheel drive, and room for the whole crew. One owner. No accidents reported. Ten service records. It has 65,914 miles. It's a seriously capable rig. Stock 576519 is ready for you. Reach out for a spin, and see what a late-model heavy-duty truck feels like without the brand-new price tag."
+   }
+  ],
+  "C83343": [
+   {
+    "shot": "Platinum badge, then the long 8-foot bed, then the cabin",
+    "script": "Platinum! The top-of-the-line Super Duty. This 2017 Ford F-350 Crew Cab Platinum has diesel power, four-wheel drive, and an eight-foot bed. The Carfax shows no accidents and eight service records. It has 102,112 miles, well cared for. The Platinum cabin is plush and quiet. Luxury and capability, all in one big truck. Test drive stock C83343 today. Once you sit in that Platinum interior, you won't want to get back out."
+   },
+   {
+    "shot": "Start inside, show the Platinum interior, then walk to the long bed",
+    "script": "Can a work truck feel like a luxury car? The F-350 Platinum says yes! This 2017 Super Duty Crew Cab is a diesel with four-wheel drive and a full eight-foot bed. It has 102,112 miles. Real comfort. No accidents reported. Eight service records on the Carfax. Work hard all week, then cruise in comfort all weekend. Reach out about stock C83343, and we'll show you every inch of this Platinum truck."
+   },
+   {
+    "shot": "Slow walk down the full length of the truck, emphasizing the size",
+    "script": "Look how long this thing is, folks! That's an eight-foot bed on a 2017 Ford F-350 Super Duty Platinum Crew Cab. Diesel engine. Four-wheel drive. 102,112 miles. It's built to haul and loaded with comfort. And the Carfax is clean, with no reported accidents and eight service records. Platinum trim means it's loaded with comfort. Stock C83343. Come see this beast in person, and bring a tape measure for that bed!"
+   }
+  ],
+  "109254": [
+   {
+    "shot": "Silverado front grille, then the crew cab, then the bed",
+    "script": "A 2023 Silverado 1500 LT Crew Cab! Four-wheel drive, no accidents reported, and twenty-eight service records on the Carfax. That's a seriously well-maintained late-model truck! It has 129,160 miles, so it's been put to work, and it's been cared for every single step of the way. Ask about stock 109254, then come take a good long look today. Late-model trucks with this kind of history get snapped up quickly around here."
+   },
+   {
+    "shot": "Tailgate drop, then walk to the driver door and hop in",
+    "script": "Do you know how rare twenty-eight service records on a 2023 is? That's somebody who took maintenance seriously! This Chevrolet Silverado 1500 Crew Cab LT has four-wheel drive and a Carfax with no accidents reported. It has 129,160 miles. There's room for the family in the back seat and room for the gear in the bed. Phone the store, mention stock 109254 by number, and let's line up a test drive for you sometime this week!"
+   },
+   {
+    "shot": "Weekend angle: show a cooler or fishing rod in the bed, then the truck",
+    "script": "Weekend plans? This truck is ready. A 2023 Chevy Silverado 1500 LT Crew Cab, with four-wheel drive for the boat ramp, the back roads, or the job site. No accidents reported. Twenty-eight service records. It has 129,160 miles. That's peace of mind. Late-model, well-kept, and ready to roll. Stock 109254. Send a DM to set up a look, and toss your fishing gear in the bed, because this truck was made for Saturdays."
+   }
+  ],
+  "154079": [
+   {
+    "shot": "Colorado front view, then the 5-foot bed, then the cab",
+    "script": "Not every truck needs to be huge! This 2016 Chevy Colorado LT Crew Cab is a midsize pickup that's easy to park and fun to drive. One owner. No accidents reported. Nine service records on the Carfax. It has 145,635 miles. Easy in, easy out, every day. It's a smart, practical truck that fits in your garage and in your budget. See stock 154079 this week, because midsize pickups like this go quickly!"
+   },
+   {
+    "shot": "Parallel park angle or narrow-space shot to show the size",
+    "script": "Ever tried to park a full-size truck downtown? Yeah. That's exactly why the Colorado exists. This 2016 Chevrolet Colorado Crew Cab LT gives you a crew cab and a bed in a midsize package. One owner. No accidents reported. Nine service records. It has 145,635 miles. It's a nimble, handy truck. Dial the store and request stock 154079 today. We'll even let you try parking it yourself, and you'll see what I mean."
+   },
+   {
+    "shot": "Walkaround ending with tossing a bag in the bed",
+    "script": "Weekend warriors, listen up. You don't need a monster truck. This 2016 Chevy Colorado LT Crew Cab is the right size for hauling bikes, mulch, or camping gear. It's had one owner, nine service records, and no reported accidents. It has 145,635 miles. Easy to drive and easy to own. Stock 154079. Shoot over a DM, and find out why a midsize pickup might be exactly the truck you've been looking for."
+   }
+  ],
+  "165113": [
+   {
+    "shot": "Rear-end shot of the 3500, then the 8-foot bed, then the cab",
+    "script": "Silverado 3500 HD diesel with an eight-foot bed? Oh, yes! This 2019 Chevrolet Crew Cab LT has four-wheel drive, no accidents reported, and twelve service records on the Carfax. It has 135,807 miles. When you need serious towing, a 3500 is the move. Stock 165113 is the one to ask for when you arrive. Bring your fifth-wheel and trailer questions, because this truck has all the answers you're looking for."
+   },
+   {
+    "shot": "Hitch close-up, then pan up to the full truck",
+    "script": "What's the heaviest thing you need to tow? This truck is ready for it. The 2019 Chevy Silverado 3500 HD LT Crew Cab is a diesel with four-wheel drive and a full eight-foot bed. Its Carfax shows no reported accidents and twelve service records. It has 135,807 miles. Call the lot, and say stock 165113. We'll get you behind the wheel and out on the road today, so you can feel that torque."
+   },
+   {
+    "shot": "Walk the length of the long bed slowly, then the cab interior",
+    "script": "Heavy duty. Diesel. Crew cab. Long bed. If that's your checklist, stop scrolling right now, friend. This 2019 Silverado 3500 HD LT checks every single box, plus four-wheel drive. It has 135,807 miles. Built to tow. No accidents reported. Twelve service records on the Carfax. It's a serious work truck that's ready for serious work. Stock 165113. Book your look today, and see what a properly maintained heavy-duty diesel looks like."
+   }
+  ],
+  "038296": [
+   {
+    "shot": "Black Edition badge close-up, then the bed, then the cab",
+    "script": "Honda Ridgeline Black Edition! This 2019 is the top trim, with all-wheel drive, no accidents reported, and eighteen service records on the Carfax. It has 121,861 miles. It's a pickup that drives as smoothly as a Honda SUV, with a bed out back for all your weekend projects. Stop by for stock 038296 and find out why Ridgeline owners love these trucks so much. One test drive and you'll be a believer."
+   },
+   {
+    "shot": "Start in the driver seat, then show the bed from the tailgate",
+    "script": "Want a truck that drives like a car? Meet the Honda Ridgeline. This 2019 Black Edition has all-wheel drive and a Carfax with no reported accidents and eighteen service records. It has 121,861 miles. It's comfortable on the highway and useful at the hardware store. Phone the store and ask about stock 038296. We'll have it ready for you to drive today, and you'll feel just how smooth it really is."
+   },
+   {
+    "shot": "Quick moody cuts of the blacked-out details, then a wide shot",
+    "script": "Blacked out, sharp, and ready to roll! This 2019 Honda Ridgeline Black Edition is the coolest-looking Ridgeline you can buy. All-wheel drive. No accidents reported. Eighteen service records. It has 121,861 miles. The Black Edition styling looks mean from every single angle. That's Honda reliability in a pickup bed package. Stock 038296. Drop into our DMs today, because Black Edition Ridgelines are getting harder and harder to find. Trust me on this one, folks."
+   }
+  ],
+  "426591": [
+   {
+    "shot": "Tradesman badge, then the 8-foot bed, then the crew cab",
+    "script": "Feast your eyes on a 2022 RAM 3500 Tradesman diesel with an eight-foot bed! Four-wheel drive, a Carfax with no accidents reported, and sixteen service records. It has 147,988 miles. Tradesman means it's built to work, not to sit pretty. Put stock 426591 on your job site this week. Your crew is going to love the room in that cab, and you're going to love everything that bed can carry."
+   },
+   {
+    "shot": "Load the bed with tools or materials, then close the tailgate",
+    "script": "Business booming? You need a truck that keeps up. This 2022 RAM 3500 Crew Cab Tradesman has the diesel, four-wheel drive, and a full eight-foot bed. No accidents reported. Sixteen service records. It has 147,988 miles. Room for the crew, room for the materials. Call the store, and say you want stock 426591. We'll have it ready for you to load up and take for a real-world test drive today."
+   },
+   {
+    "shot": "Wide shot, then quick cuts timed to the facts",
+    "script": "Diesel? Check. Four-wheel drive? Check. Eight-foot bed? Check! This 2022 RAM 3500 Tradesman Crew Cab hits every box on the work truck checklist. The Carfax shows no accidents and sixteen service records. It has 147,988 miles. It's all business. It's a late-model heavy hauler ready for its next boss. Stock 426591. Reach us today, and find out why a diesel 3500 is the smartest tool you can buy for your business."
+   }
+  ],
+  "209719": [
+   {
+    "shot": "Silverado HD grille close-up, then the bed, then the interior",
+    "script": "Twenty-nine service records! This 2017 Chevrolet Silverado 2500 HD LT Crew Cab diesel has clearly been maintained. Four-wheel drive, 117,622 miles, and ready to tow. It's broken in, not worn out. If you want a diesel with a solid paper trail, this one deserves a long look. Make stock 209719 your first stop today. We'll even pull up the full Carfax so you can read every single one of those service visits yourself."
+   },
+   {
+    "shot": "Hitch close-up, pan up the tailgate, then a walkaround",
+    "script": "Want a diesel that's been looked after? Here's one. This 2017 Chevy Silverado 2500 HD LT Crew Cab has four-wheel drive and twenty-nine service records on the Carfax. It has 117,622 miles. Room for the family, power for the trailer. Ring us, ask about stock 209719, and let's take it out on the road. You'll feel exactly why diesel owners swear by these heavy-duty trucks the minute you hit the gas."
+   },
+   {
+    "shot": "Driver POV pulling out of a spot, then a wide exterior",
+    "script": "Here's a heavy-duty truck at a great stage of life. Broken in, not worn out. This 2017 Silverado 2500 HD LT is a diesel with four-wheel drive and 117,622 miles. The Carfax shows twenty-nine service records, which tells you a lot about how it was treated. It's ready to work. Stock 209719. Book a time with us, and bring your trailer along if you want to see what it can pull."
+   }
+  ],
+  "195448": [
+   {
+    "shot": "Big Horn badge, then the bed, then the cab",
+    "script": "Check out this 2024 RAM 2500 Big Horn diesel! This Crew Cab has four-wheel drive, one owner, and ten service records already on the Carfax. It has 83,746 miles. That's a late-model heavy-duty truck that's been put to work and maintained properly. Request stock 195448 by number and look it over today. One-owner diesels like this don't stay on our lot for long, so don't wait too long to come see it."
+   },
+   {
+    "shot": "Stand next to the truck for scale, then climb in",
+    "script": "Big truck energy! This 2024 RAM 2500 Crew Cab Big Horn is a one-owner diesel with four-wheel drive. Ten service records on the Carfax. It has 83,746 miles. It's nearly new and ready to tow your camper, your boat, or your equipment. Get on the phone about stock 195448 before somebody else does! We'd love to show it to you and let you feel how this diesel pulls on the open road."
+   },
+   {
+    "shot": "Start at the tailgate, walk forward slowly, end at the RAM grille",
+    "script": "Why should you pay brand-new prices? This 2024 RAM 2500 Big Horn is just a couple years old, has one owner, and has ten service records on the Carfax. Diesel power. Four-wheel drive. Crew cab comfort. It has 83,746 miles. It's ready for its next job right now. Stock 195448. Send a quick note our way, and see how much heavy-duty truck you get when somebody else already took the depreciation."
+   }
+  ],
+  "D49423": [
+   {
+    "shot": "Lariat badge close-up, then the cab interior, then the bed",
+    "script": "A diesel F-150? Yep! This 2018 Ford F-150 SuperCrew Lariat runs on diesel, with four-wheel drive, one owner, and no accidents reported. Twenty-nine service records on the Carfax! It has 150,557 miles, all documented. It's a rare combo. Lariat comfort with diesel efficiency. Come look over stock D49423 today. A one-owner diesel F-150 with this kind of maintenance history is truly special, and I'd hate for you to miss it."
+   },
+   {
+    "shot": "Start in the Lariat interior, then hop out and show the 5.5-foot bed",
+    "script": "Did you know Ford made a diesel F-150? This 2018 SuperCrew Lariat is one of them! Four-wheel drive. One owner. No accidents reported. Twenty-nine service records. There are 150,557 miles on it. Rare find. That's a half-ton diesel that's been well maintained its whole life. Phone us about stock D49423. These don't come around very often, so come see it before it's gone and somebody else is driving it home."
+   },
+   {
+    "shot": "Walkaround with focus on the badges and wheels",
+    "script": "One owner. Twenty-nine service records. No accidents. That's the kind of truck history I love to see! This 2018 Ford F-150 Lariat SuperCrew is a diesel with four-wheel drive and 150,557 miles. Honestly, it is a genuine gem of a truck. It's comfortable, capable, and clearly well cared for. It'd make a perfect family truck for weekends. Stock D49423. Hit us up today, and we'll head out together for a test drive around town."
+   }
+  ],
+  "216349": [
+   {
+    "shot": "Denali grille close-up, then the bed, then the luxury cabin",
+    "script": "Denali 3500 HD! Now that's a truck! This 2020 GMC Sierra 3500 HD Denali Crew Cab is a diesel with four-wheel drive, a Carfax with no reported accidents, and twenty-eight service records. It has 187,683 miles. It's the luxury heavy-duty truck that can still tow serious weight. Test drives on stock 216349 are open today. Climb into that Denali interior, and you'll understand exactly what all the fuss is about."
+   },
+   {
+    "shot": "Start inside showing the Denali interior, then walk to the hitch",
+    "script": "Want to tow big and ride in comfort? That's what Denali is all about. This 2020 GMC Sierra 3500 HD Denali Crew Cab has a diesel engine, four-wheel drive, and twenty-eight service records on the Carfax, with no accidents reported. It has 187,683 miles. Comfort and capability. Ring us, and quote stock 216349. We'll show you every detail in person today, from the hitch all the way up to the cabin."
+   },
+   {
+    "shot": "Slow push in on the Denali badge, then a full truck walkaround",
+    "script": "Pulling a big fifth-wheel and want to arrive relaxed? This 2020 Sierra 3500 HD Denali delivers. Diesel. Four-wheel drive. Crew cab. No reported accidents. Twenty-eight service records. It has 187,683 miles. Tow it all. It's the luxury heavy hauler for people who tow far and want to feel good doing it. Stock 216349. Reach out to book a look, and bring your camper plans with you, because this truck is ready."
+   }
+  ],
+  "259733": [
+   {
+    "shot": "Sierra grille, then the bed, then the cab",
+    "script": "A 2024 GMC Sierra 2500 HD diesel! This Pro Crew Cab has four-wheel drive, one owner, and a Carfax with no accidents and six service records. It has 107,016 miles. It's barely broken in, too. Late-model heavy-duty, ready to work hard. A one-owner 2024 diesel with a clean Carfax is the kind of truck that gets snapped up fast, so don't sit on this one. Come claim stock 259733 today!"
+   },
+   {
+    "shot": "Toss gear in the bed, slam the tailgate, walk to the front",
+    "script": "Need a newer heavy-duty truck to keep your business moving? Here it is. A 2024 GMC Sierra 2500 HD Pro Crew Cab with diesel power and four-wheel drive. One owner. No reported accidents. Six service records. It has 107,016 miles. Room for the crew and plenty of muscle. Give the store a call about stock 259733. We'll have it pulled up front and ready to go whenever you can get here today."
+   },
+   {
+    "shot": "Quick cuts: badge, wheel, bed, cab, keys in hand",
+    "script": "2024. Diesel. One owner. Clean Carfax. This GMC Sierra 2500 HD Pro has all the boxes checked! Four-wheel drive, crew cab, 107,016 miles, and six service records with no accidents reported. Clean, capable, and ready. It's a workhorse that's barely a couple of years old. Stock 259733. Fire off a DM to schedule a look, and see what a nearly new Sierra HD feels like without paying full new-truck money."
+   }
+  ],
+  "012595": [
+   {
+    "shot": "Low front angle on the AMG GT, slow push in, then the cockpit",
+    "script": "Mercedes-AMG GT 63! Yes, really! This 2020 four-door coupe has only 32,876 miles, all-wheel drive, no accidents reported, and twenty-three service records on the Carfax. That's a low-mile AMG that's been pampered. Four doors, but don't let that fool you for a second. Stock 012595 deserves an in-person visit, so plan one today. This is one of the most exciting cars on our entire lot, and it's waiting for you."
+   },
+   {
+    "shot": "Start in the driver seat, hands on the wheel, then step out for the profile",
+    "script": "Ever sat in an AMG GT 63? You need to. This 2020 Mercedes-AMG GT 63 Coupe has four doors, all-wheel drive, and only 32,876 miles. The Carfax shows twenty-three service records and no reported accidents. It's fast, gorgeous, and practical enough to bring your friends along. Ring us up and reserve a slot with stock 012595. We'd love to set you up with a test drive this week. Just don't blame us when you fall in love."
+   },
+   {
+    "shot": "Cinematic slow pan along the roofline, ending on the rear badge",
+    "script": "Some cars are just rolling art. The 2020 Mercedes-AMG GT 63 is one of them. This four-door coupe has all-wheel drive, 32,876 miles, a Carfax with no accidents, and twenty-three service records. Low miles, high style, total head-turner. Stock 012595. Shoot us a message and come see it in person today, because photos really don't do this car justice. Walk around it once, and you'll see exactly what I mean."
+   }
+  ]
+ }
+}

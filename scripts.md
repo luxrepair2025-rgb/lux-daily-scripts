@@ -1,450 +1,388 @@
-# Video Scripts — rotation starting 2026-10-15 (3-day set)
+# Video scripts: current 3-day set (Oct 15-17, 2026), variant 2 of 3
 
-## 1. 2023 Tesla Model Y Performance Sport Utility 4D (Hot)
-Stock 872032 · $37,495 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-y/872032/)
+All 3 variants per car are in scripts.json.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2023 Tesla Model 3 Standard Sedan 4D (#643010)
 
-> Looking for an SUV under $38,000? You're going to love this one! Here's why it's special. We tested the battery: 89 percent health, rated Excellent! Just 34,899 miles, barely broken in! All-wheel drive for confidence in any weather! One-owner Carfax! Check out that blue paint with the black interior! You're looking at an estimated 268 miles of range! Yours for $37,495! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Selfie-style walk around the car while talking, end with a thumbs up at the trunk
 
-## 2. 2023 Tesla Model Y Long Range Sport Utility 4D (Hot)
-Stock 208339 · $37,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-y/208339/)
+> Who's this car for? The commuter who is done feeding a gas pump every single week! This 2023 Model 3 Standard runs an LFP battery, the kind that's happy charging all the way to 100 percent. We tested it at 93 percent health. It has only 22,440 miles, one owner, and zero accidents on the Carfax. If that sounds like you, $29,295 gets it done. Ring the store before noon and we'll have it charged for your drive.
 
-**Shot:** Start inside on the dash showing the battery %/range screen, then step out to the full exterior
+## 2023 Tesla Model 3 Standard Sedan 4D (#657245)
 
-> Good morning from Lux Automotive! Let's check out this 2023 Tesla Model Y! Let me show you what you get. Battery health tested at 93 percent, that's an Excellent rating! Estimated range? 306 miles on a charge! Only 18,676 miles on it! All-wheel drive for confidence in any weather! One-owner Carfax! No accidents reported on the Carfax! Finished in gray with a black interior. Sharp! It's priced at $37,295. Ask for stock number 208339, send us a message, or come see it today!
+**Shot:** Close-up of the charge port opening, then a slow pan down the side
 
-## 3. 2024 Tesla Model Y Long Range Sport Utility 4D (Hot)
-Stock 304751 · $36,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-y/304751/)
+> Quick question. What if plugging in to 100 percent every night was totally fine? With the LFP pack in this 2023 Model 3, it is! The battery tests at 92.9 percent. The odometer reads just 23,631. Range sits near 253 miles, and it's had exactly one owner. Gray over white, and seriously sharp. You can own it for $30,995. Shoot us a text, and we'll save a test drive slot with your name on it.
 
-**Shot:** Walk toward the car from a distance, open the door, show the white interior
+## 2023 Tesla Model 3 Standard Sedan 4D (#645058)
 
-> Looking for an SUV under $37,000? You're going to love this one! Let's get into it! We tested the battery: 91 percent health, rated Excellent! You're looking at an estimated 291 miles of range! Just 38,976 miles, barely broken in! One-owner Carfax! Check out that gray paint with the white interior! All of that for $36,995! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Fast-paced cuts timed to each fact: odometer, screen, seats, rear badge
 
-## 4. 2023 Tesla Model Y Performance Sport Utility 4D (Hot)
-Stock 830720 · $32,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-y/830720/)
+> Twenty-four thousand miles. Ninety-two percent battery. One owner. Zero accidents. Honestly, that's the whole pitch, and it's a great one! This 2023 Model 3 Standard wears gray paint over a white interior, and it's good for about 252 miles per charge. The LFP battery loves a full top-up, too. Price check: $30,995. Don't scroll past it. Pick up the phone and book a drive while it's still on our front row.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2023 Tesla Model Y Long Range Sport Utility 4D (#208339)
 
-> It's walkaround time! Meet this white 2023 Tesla Model Y! Here's why it's special. One-owner Carfax! Check out that white paint with the white interior! We tested the battery: 86 percent health, rated Excellent! You're looking at an estimated 261 miles of range! It's showing 65,586 miles and ready to roll! All-wheel drive for confidence in any weather! Yours for $32,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Low angle shot of the front, slow push in on the badge, then the range screen
 
-## 5. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 657245 · $30,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/657245/)
+> Three hundred and six miles. That's the estimated range on this Model Y Long Range, and that's real road trip territory! It's a 2023 with just 18,676 miles, one owner, and a battery testing at 92.6 percent. All-wheel drive handles the rainy days. No reported accidents, either. If you've been hunting for the perfect used Model Y, your search might be over. Stock 208339. $37,295. Get here before somebody else takes it home!
 
-**Shot:** Start inside on the dash showing the battery %/range screen, then step out to the full exterior
+## 2023 Tesla Model Y Long Range Sport Utility 4D (#612662)
 
-> Good morning from Lux Automotive! Let's check out this 2023 Tesla Model 3! Let me show you what you get. Estimated range? 253 miles on a charge! It's got an LFP battery pack, the kind that's happy charging to 100 percent! Only 23,631 miles on it! One-owner Carfax! Finished in gray with a white interior. Sharp! Battery health tested at 93 percent, that's an Excellent rating! It's priced at $30,995. Ask for stock number 657245, send us a message, or come see it today!
+**Shot:** Start inside on the big center screen, then pan to the back seat
 
-## 6. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 645058 · $30,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/645058/)
+> Ever stood at a gas pump on a freezing January morning? Yeah, those days are over. This 2023 Model Y Long Range runs on electrons and gets an estimated 303 miles per charge. Battery health: 91.9 percent. Odometer: just 23,448. Three service records on the Carfax, no reported accidents, and all-wheel drive for winter. Send a quick message to Lux Automotive, and let's get you behind the wheel before lunch today.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2023 Tesla Model 3 Standard Sedan 4D (#591951)
 
-> It's walkaround time! Meet this gray 2023 Tesla Model 3! Here's why it's special. We tested the battery: 93 percent health, rated Excellent! One-owner Carfax! No accidents reported on the Carfax! Check out that gray paint with the white interior! You're looking at an estimated 252 miles of range! It's got an LFP battery pack, the kind that's happy charging to 100 percent! Yours for $30,995! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Hold up a phone calculator showing 25,995, then reveal the car behind it
 
-## 7. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 643010 · $29,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/643010/)
+> Can you still get a 2023 Tesla for under twenty-six grand? Right here, you can. $25,995 for this Model 3 Standard! That buys a one-owner car with no reported accidents, a battery tested at 91.5 percent, and about 249 miles of range. There are 35,697 miles on it, plus that LFP pack that's fine charging to full. Seriously, call before lunch. A one-owner Tesla at this price won't sit here long.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2024 Tesla Model Y Long Range Sport Utility 4D (#304751)
 
-> It's walkaround time! Meet this gray 2023 Tesla Model 3! Let's get into it! We tested the battery: 93 percent health, rated Excellent! You're looking at an estimated 253 miles of range! It's got an LFP battery pack, the kind that's happy charging to 100 percent! Just 22,440 miles, barely broken in! One-owner Carfax! No accidents reported on the Carfax! All of that for $29,295! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start with someone loading a bag into the trunk, then shut it and smile
 
-## 8. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 544132 · $27,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/544132/)
+> Groceries, gym bags, the dog crate, it all fits. This 2024 Model Y Long Range is built for real life. You get about 291 miles of estimated range and a battery that measured 90.9 percent health. It has 38,976 miles and just one owner. Gray paint with that clean white cabin, too. Thirty-six nine ninety-five gets it done. Drop us a message and we'll set up a test drive around your schedule.
 
-**Shot:** Start inside on the dash showing the battery %/range screen, then step out to the full exterior
+## 2023 Tesla Model 3 Standard Sedan 4D (#544132)
 
-> Good morning from Lux Automotive! Let's check out this 2023 Tesla Model 3! Let me show you what you get. Estimated range? 247 miles on a charge! It's got an LFP battery pack, the kind that's happy charging to 100 percent! Only 45,173 miles on it! One-owner Carfax! No accidents reported on the Carfax! Finished in white with a white interior. Sharp! It's priced at $27,295. Ask for stock number 544132, send us a message, or come see it today!
+**Shot:** Hand on steering wheel POV, then cut to the range on the screen
 
-## 9. 2022 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 323907 · $27,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/323907/)
+> This one's for anyone who wants a Tesla, wants it clean, and doesn't want to overspend. That's this 2023 Model 3. One owner. No accidents reported. A battery at 90.7 percent and around 247 miles of range. There are 45,173 miles on the clock, and it's gorgeous white on white. At $27,295, it honestly feels like a steal. Book a quick drive this week and see why it's my pick.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2023 Tesla Model 3 Standard Sedan 4D (#482978)
 
-> It's walkaround time! Meet this gray 2022 Tesla Model 3! Let's get into it! One-owner Carfax! Check out that gray paint with the black interior! We tested the battery: 87 percent health, rated Excellent! You're looking at an estimated 313 miles of range! It's showing 66,170 miles and ready to roll! All-wheel drive for confidence in any weather! All of that for $27,295! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Show a gas receipt crumpling (or hand wave), then reveal the car
 
-## 10. 2022 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 119770 · $26,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/119770/)
+> Tired of gas prices? Same. Here's your exit plan: a 2023 Tesla Model 3 Standard for $25,295. Battery health still tests at 90.3 percent. You'll get about 246 miles on a charge. It has 52,605 miles, one owner, white paint, and black seats. It's the easiest switch to electric you'll ever make. Come by Lux Automotive or give us a ring, and we'll have it charged up when you walk in.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (75,959 mi)
+## 2023 Tesla Model 3 Standard Sedan 4D (#642122)
 
-> Heads up! This 2022 Tesla Model 3 will not last long on our lot! Check this out. Battery health tested at 87 percent, that's an Excellent rating! Estimated range? 311 miles on a charge! 75,959 miles and ready for plenty more! All-wheel drive for confidence in any weather! One-owner Carfax! No accidents reported on the Carfax! Finished in gray with a black interior. Sharp! $26,295 gets you behind the wheel! Ask for stock 119770 before somebody else grabs it!
+**Shot:** Talking-head style next to the car, gesturing at the battery screen
 
-## 11. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 591951 · $25,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/591951/)
+> People always ask me, do Tesla batteries wear out? Let me show you this one. A 2023 Model 3. 70,767 miles. Battery health? 89.4 percent. Excellent! That's the LFP pack doing its thing. You get about 243 miles of range, a one-owner history, and that sharp gray-on-black look. It's priced at $25,995. If you've got questions, call us. If you're ready, come drive it today and feel the difference yourself.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2023 Tesla Model Y Performance Sport Utility 4D (#872032)
 
-> It's walkaround time! Meet this black 2023 Tesla Model 3! Here's why it's special. It's got an LFP battery pack, the kind that's happy charging to 100 percent! Just 35,697 miles, barely broken in! One-owner Carfax! No accidents reported on the Carfax! Check out that black paint with the black interior! We tested the battery: 92 percent health, rated Excellent! Yours for $25,995! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Start in the back seat looking forward, then hop out and walk to the front
 
-## 12. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 642122 · $25,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/642122/)
+> The parent who still wants to have fun? This one's for you! This 2023 Tesla Model Y Performance seats the crew AND brings the excitement. All-wheel drive. 34,899 miles. Battery health measured at 88.5 percent. About 268 miles of estimated range. One owner on the Carfax, plus a service record on file. $37,495, all in. Come see why minivans are jealous, and bring the kids along, because they'll vote yes.
 
-**Shot:** Start inside on the dash showing the battery %/range screen, then step out to the full exterior
+## 2023 Tesla Model 3 Standard Sedan 4D (#439008)
 
-> Heads up! This 2023 Tesla Model 3 will not last long on our lot! Let me show you what you get. Battery health tested at 89 percent, that's an Excellent rating! 70,767 miles and ready for plenty more! One-owner Carfax! Finished in gray with a black interior. Sharp! Estimated range? 243 miles on a charge! It's priced at $25,995. Ask for stock number 642122, send us a message, or come see it today!
+**Shot:** Film the red paint up close in morning light, then the black interior
 
-## 13. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 482978 · $25,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/482978/)
+> Red Tesla, black interior, and a price that actually makes sense. This 2023 Model 3 has done some driving, 125,415 miles, and guess what? The battery health tested at 87.6 percent! That's the LFP pack proving how tough it is. Around 238 miles of range, too. One owner. Four service records. All for $18,295. Stop by and see it, because it's living proof high miles don't scare a well-built EV.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2022 Tesla Model 3 Long Range Sedan 4D (#323907)
 
-> It's walkaround time! Meet this white 2023 Tesla Model 3! Here's why it's special. One-owner Carfax! Check out that white paint with the black interior! We tested the battery: 90 percent health, rated Excellent! You're looking at an estimated 246 miles of range! It's got an LFP battery pack, the kind that's happy charging to 100 percent! It's showing 52,605 miles and ready to roll! Yours for $25,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Map app on phone showing a long trip, then cut to the car
 
-## 14. 2022 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 260077 · $22,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/260077/)
+> Planning a road trip? Allow me to introduce your brand new co-pilot. A 2022 Model 3 Long Range with about 313 miles of estimated range! Dual motor all-wheel drive. A battery at 87.3 percent. One owner, 66,170 miles, gray over black. Picture cruising right past every gas station on the interstate. All of this for $27,295. Send us a DM, and let's get you on the open road this weekend!
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2022 Tesla Model 3 Long Range Sedan 4D (#119770)
 
-> Stop scrolling! This 2022 Tesla Model 3 is one you need to see! Here's why it's special. We tested the battery: 86 percent health, rated Excellent! You're looking at an estimated 306 miles of range! It's showing 106,484 miles and ready to roll! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 3 service records on the Carfax! Yours for $22,995! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Start at the rear AWD badge, crisp cut to the front, then the interior
 
-## 15. 2021 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 980227 · $21,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/980227/)
+> Is all-wheel drive on your must-have list this year? This 2022 Model 3 Long Range delivers. Dual motors, roughly 311 miles of range, and a battery tested at 86.8 percent. It's got 75,959 miles and a clean history, with one owner and no reported accidents. Gray on black, sporty and simple. It's $26,295. Shoot us a text or call the store directly, and let's line up your drive for this morning.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2023 Tesla Model Y Performance Sport Utility 4D (#830720)
 
-> Stop scrolling! This 2021 Tesla Model 3 is one you need to see! Let's get into it! We tested the battery: 86 percent health, rated Excellent! You're looking at an estimated 302 miles of range! It's showing 87,792 miles and ready to roll! All-wheel drive for confidence in any weather! One-owner Carfax! 3 service records on the Carfax! All of that for $21,995! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Show the trunk and folded seats, then walk to the front and point at the badge
 
-## 16. 2021 Tesla Model Y Long Range Sport Utility 4D (Hot)
-Stock 192141 · $21,495 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-y/192141/)
+> Space AND speed. That's the Model Y Performance in one sentence. This 2023 is finished in white with a white interior, rides on all-wheel drive, and has had just one owner. It shows 65,586 miles, battery health of 86.2 percent, and roughly 261 miles of range. A family SUV that just happens to be seriously quick. Thirty-two two ninety-five. Come open the hatch and picture your next road trip in it!
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2022 Tesla Model 3 Long Range Sedan 4D (#260077)
 
-> Stop scrolling! This 2021 Tesla Model Y is one you need to see! Let's get into it! Check out that white paint with the black interior! We tested the battery: 84 percent health, rated Good! You're looking at an estimated 273 miles of range! It's showing 135,819 miles and ready to roll! All-wheel drive for confidence in any weather! One-owner Carfax! All of that for $21,495! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Highway-themed opener: film the car from behind as if leaving the lot
 
-## 17. 2020 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 741728 · $18,895 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/741728/)
+> Who needs this car? Somebody who drives a LOT. This 2022 Model 3 Long Range has proven it can handle serious miles, and it still gives you roughly 306 miles per charge. Battery health: 85.5 percent. All-wheel drive. No reported accidents and three service records. Black on black. At $22,995, you start saving on fuel from the very first day. Give us a call this morning, and let's make it happen.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (106,036 mi)
+## 2021 Tesla Model 3 Long Range Sedan 4D (#980227)
 
-> Think used EV batteries are a gamble? Not this 2020 Tesla Model 3! Check this out. Finished in black with a black interior. Sharp! Battery health tested at 84 percent, that's an Good rating! Estimated range? 270 miles on a charge! 106,036 miles and ready for plenty more! All-wheel drive for confidence in any weather! 3 service records on the Carfax! $18,895 gets you behind the wheel! Ask for stock 741728 before somebody else grabs it!
+**Shot:** Point the camera at the frunk opening, then pull back to the full car
 
-## 18. 2023 Tesla Model 3 Standard Sedan 4D (Hot)
-Stock 439008 · $18,295 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/439008/)
+> Fun fact: Teslas have a trunk in the front. And this 2021 Model 3 Long Range has a lot more going for it than a frunk! All-wheel drive. Roughly 302 miles of range. 85.5 percent battery health. One owner with three service records. It shows 87,792 miles, it's black on black, and it's only $21,995. Come pop that frunk yourself. Phone us this morning and we'll set up a drive whenever works for you.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2022 Tesla Model 3 Long Range Sedan 4D (#168840)
 
-> Looking for a sedan under $19,000? You're going to love this one! Let's get into it! Check out that red paint with the black interior! We tested the battery: 88 percent health, rated Excellent! You're looking at an estimated 238 miles of range! It's got an LFP battery pack, the kind that's happy charging to 100 percent! All of that for $18,295! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start on the steering wheel and big screen, then exit through the driver door
 
-## 19. 2020 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 636924 · $16,495 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/636924/)
+> Can a Tesla with 108,000 miles still be a great buy? Let me show you. This 2022 Model 3 Long Range tests at 85.5 percent battery health and still gets roughly 306 miles of range! All-wheel drive. No accidents reported on Carfax. It's the kind of car that proves EVs are built to go the distance. Ring Lux Automotive, mention stock 168840, and come feel it for yourself today. Seeing is believing.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2021 Tesla Model 3 Performance Sedan 4D (#020218)
 
-> Stop scrolling! This 2020 Tesla Model 3 is one you need to see! Let's get into it! We tested the battery: 83 percent health, rated Good! All-wheel drive for confidence in any weather! One-owner Carfax! No accidents reported on the Carfax! Check out that white paint with the black interior! You're looking at an estimated 267 miles of range! All of that for $16,495! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start inside showing the white seats, slow reveal through the windshield of the red hood
 
-## 20. 2018 Honda CR-V EX-L W/Navigation Sport Utility 4D (Hot)
-Stock 040655 · $12,295 · [listing](https://www.luxautomotivellc.com/inventory/honda/cr-v/040655/)
+> Love being noticed? Then this car was built for you! Red paint. White interior. Performance trim. This 2021 Model 3 Performance has all-wheel drive, 62,150 miles, and one owner. The Carfax shows five service records and no reported accidents. Battery health sits at 84.8 percent, with about 267 miles of range. It's priced at $27,995. Call Lux Automotive and claim it before somebody with great taste beats you to it!
 
-**Shot:** Walk toward the car from a distance, open the door, show the gray interior
+## 2020 Tesla Model 3 Long Range Sedan 4D (#741728)
 
-> It's walkaround time! Meet this silver 2018 Honda CR-V! Let's get into it! Check out that silver paint with the gray interior! It's showing 167,571 miles and ready to roll! All-wheel drive for confidence in any weather! One-owner Carfax! 24 service records on the Carfax! Honestly, the photos don't do it justice. You have to see it in person. All of that for $12,295! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** First-car vibes: hand someone the keycard, they walk to the car
 
-## 21. 2023 Tesla Model Y Long Range Sport Utility 4D (Hot)
-Stock 612662 · $0 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-y/612662/)
+> First EV on a tight budget? This 2020 Tesla Model 3 Long Range might be the one. All-wheel drive. Roughly 270 miles per charge. Battery health at 84 percent. It has 106,036 miles and three service records. Easy decision. Black outside and in. And the price? Only $18,895. Say goodbye to the gas station for good. Message Lux Automotive today, and let's set up a relaxed test drive this week.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (23,448 mi)
+## 2021 Tesla Model Y Long Range Sport Utility 4D (#192141)
 
-> Heads up! This 2023 Tesla Model Y will not last long on our lot! Check this out. Battery health tested at 92 percent, that's an Excellent rating! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 3 service records on the Carfax! Estimated range? 303 miles on a charge! Only 23,448 miles on it! $0 gets you behind the wheel! Ask for stock 612662 before somebody else grabs it!
+**Shot:** Family angle: open all the doors, show the back seats
 
-## 22. 2022 Tesla Model 3 Long Range Sedan 4D (Hot)
-Stock 168840 · $0 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/168840/)
+> Growing family, tight budget, and you want to go electric? Here's your SUV. This 2021 Model Y Long Range fits the crew and gets around 273 miles per charge. All-wheel drive. Battery health at 83.6 percent. One owner and no reported accidents, with 135,819 miles. White over black. And it's only $21,495! That's an affordable way into a Model Y. Bring the kids for the test drive and let them pick their seats.
 
-**Shot:** Start inside on the dash showing the battery %/range screen, then step out to the full exterior
+## 2021 Tesla Model S Plaid Sedan 4D (#438443)
 
-> Think used EV batteries are a gamble? Not this 2022 Tesla Model 3! Let me show you what you get. All-wheel drive for confidence in any weather! No accidents reported on the Carfax! Battery health tested at 86 percent, that's an Excellent rating! Estimated range? 306 miles on a charge! 108,217 miles and ready for plenty more! It's priced at $0. Ask for stock number 168840, send us a message, or come see it today!
+**Shot:** Start in the driver's seat, hands on the wheel, then hop out to the red paint
 
-## 23. 2016 Chevrolet Colorado Crew Cab LT Pickup 4D 5 FT (Hot)
-Stock 154079 · $0 · [listing](https://www.luxautomotivellc.com/inventory/chevrolet/colorado-crew-cab/154079/)
+> Have you ever sat in a Model S Plaid? Today's your chance! This 2021 Plaid is red with a black interior and has had one owner. It's all-wheel drive, has 89,855 miles, and its battery tested at 83.4 percent health, good for roughly 290 miles of range. This is the top dog of the whole Tesla lineup, and it's $47,495. Come take a seat. Phone us right now and we'll pull it up front for you.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2020 Tesla Model 3 Long Range Sedan 4D (#636924)
 
-> It's walkaround time! Meet this 2016 Chevrolet Colorado Crew Cab! Here's why it's special. No accidents reported on the Carfax! 9 service records on the Carfax! It's showing 145,635 miles and ready to roll! One-owner Carfax! Honestly, the photos don't do it justice. You have to see it in person. This is the kind of truck people ask us about all the time. Yours for $0! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Student angle: backpack in the trunk, then walk to the driver door
 
-## 24. 2024 RAM 2500 Crew Cab Big Horn Pickup 4D 6 1/3 FT (Hot)
-Stock 195448 · $0 · [listing](https://www.luxautomotivellc.com/inventory/ram/2500-crew-cab/195448/)
+> College student? New driver? Here's a smart buy. This 2020 Model 3 Long Range costs just $16,495 and runs on electricity. All-wheel drive. Roughly 267 miles of range. A battery tested at 82.9 percent. One owner, and no accidents on the Carfax. It has 134,479 miles and comes in white over black. Imagine never buying gas through all four years of school. Hit us up, and let's get you in it.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2019 Mercedes-Benz Mercedes-AMG G-Class G 63 AMG Sport Utility 4D (#308309)
 
-> Heads up! This 2024 RAM 2500 Crew Cab will not last long on our lot! Let me show you what you get. 83,746 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! One-owner Carfax! 10 service records on the Carfax! It's priced at $0. Ask for stock number 195448, send us a message, or come see it today!
+**Shot:** Start with the camera at door handle height, open the door, show the red seats
 
-## 25. 2021 Mercedes-Benz Mercedes-AMG E-Class E 63 S AMG Sedan 4D (Warm)
-Stock 931703 · $60,995 · [listing](https://www.luxautomotivellc.com/inventory/mercedes-benz/mercedes-amg-e-class/931703/)
+> How would it feel to make an entrance everywhere you go? This 2019 Mercedes-AMG G-Class G 63 does it for you. Black over red, all-wheel drive, and 76,346 miles. The Carfax shows five service records. This is the AMG version of one of the most iconic SUVs in the world. If you know, you know. $105,995. Call today and set up a private look at this legend before it finds a new garage.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (53,417 mi)
+## 2023 RAM 3500 Mega Cab Longhorn Pickup 4D 6 1/3 FT (#597556)
 
-> Good morning from Lux Automotive! Let's check out this 2021 Mercedes-Benz Mercedes-AMG E-Class! Check this out. All-wheel drive for confidence in any weather! 28 service records on the Carfax! Finished in black with a black interior. Sharp! 53,417 miles and ready for plenty more! Honestly, the photos don't do it justice. You have to see it in person. $60,995 gets you behind the wheel! Ask for stock 931703 before somebody else grabs it!
+**Shot:** Hitch close-up first, then pan up and over the truck
 
-## 26. 2023 Ford F350 Super Duty Crew Cab Lariat Pickup 4D 8 FT (Warm)
-Stock C20916 · $51,495 · [listing](https://www.luxautomotivellc.com/inventory/ford/f350-super-duty-crew-cab/c20916/)
+> Got something really big to pull? This truck laughs at it. A 2023 RAM 3500 Mega Cab Longhorn with diesel power and four-wheel drive. One owner. No accidents reported. Eight service records. Just 50,199 miles. Strong stuff. Black paint with a beautiful brown interior. Work truck strength with luxury comfort, priced at $64,995. Call us and let's talk trucks, towing, and everything you're planning to hook up behind it this season.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (136,233 mi)
+## 2021 Mercedes-Benz Mercedes-AMG E-Class E 63 S AMG Sedan 4D (#931703)
 
-> Want something dependable? Say hello to this 2023 Ford F350 Super Duty Crew Cab! Check this out. Finished in gray with a black interior. Sharp! 136,233 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! One-owner Carfax! 8 service records on the Carfax! $51,495 gets you behind the wheel! Ask for stock C20916 before somebody else grabs it!
+**Shot:** Talk while sitting in the driver seat, then step out and pop the hood or trunk
 
-## 27. 2021 Tesla Model S Plaid Sedan 4D (Warm)
-Stock 438443 · $47,495 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-s/438443/)
+> Need four doors but refuse to drive boring? Then meet the 2021 Mercedes-AMG E 63 S. Black outside. Black inside. All-wheel drive. 53,417 miles. And the Carfax shows twenty-eight service records, which is incredible. It's a family sedan with serious AMG muscle, and it's priced at $60,995. Give Lux Automotive a call or a DM, and let's set up a drive before the weekend. You won't regret it, I promise.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2023 Ford F350 Super Duty Crew Cab Lariat Pickup 4D 8 FT (#C20916)
 
-> It's walkaround time! Meet this red 2021 Tesla Model S! Let's get into it! One-owner Carfax! Check out that red paint with the black interior! We tested the battery: 83 percent health, rated Good! You're looking at an estimated 290 miles of range! It's showing 89,855 miles and ready to roll! All-wheel drive for confidence in any weather! All of that for $47,495! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Show the bed empty, toss in a tool bag, then the front of the truck
 
-## 28. 2013 Bentley Continental GT Coupe 2D (Warm)
-Stock 082970 · $47,295 · [listing](https://www.luxautomotivellc.com/inventory/bentley/continental/082970/)
+> Contractors, this one's for you. A 2023 Ford F-350 Crew Cab Lariat with a full eight-foot bed. Diesel. Four-wheel drive. One owner and eight service records. Its 136,233 miles are proof that it's been working, and it's ready for more. Gray on black, ready for the job site Monday morning. Priced at $51,495. Message us and let's put it to work for you this week. Your crew will thank you.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2013 Bentley Continental GT Coupe 2D (#082970)
 
-> It's walkaround time! Meet this black 2013 Bentley Continental! Here's why it's special. It's showing 57,556 miles and ready to roll! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 4 service records on the Carfax! Check out that black paint with the black interior! Honestly, the photos don't do it justice. You have to see it in person. Yours for $47,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Hand running along the hood and fender, then open the long coupe door
 
-## 29. 2021 Audi SQ7 Premium Plus Sport Utility 4D (Warm)
-Stock 016415 · $35,495 · [listing](https://www.luxautomotivellc.com/inventory/audi/sq7/016415/)
+> When's the last time you touched a Bentley? Come down and touch this one. It's a 2013 Bentley Continental GT, black over black, with all-wheel drive and just 57,556 miles. The Carfax shows no accidents and four service records. That's Bentley luxury at a used-car price of $47,295. Phone Lux Automotive today and treat yourself to a test drive you'll be talking about for weeks. Go ahead, you have absolutely earned it.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2019 Mercedes-Benz AMG GT Sedan 4D AMG GT 53 AWD 3.0L V6 Turbo (#004344)
 
-> Want something dependable? Say hello to this 2021 Audi SQ7! Let me show you what you get. 79,423 miles and ready for plenty more! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 14 service records on the Carfax! Finished in gray with a red interior. Sharp! This is the kind of SUV people ask us about all the time. It's priced at $35,495. Ask for stock number 016415, send us a message, or come see it today!
+**Shot:** Low rear shot of the fastback, slow sweep up to the roofline
 
-## 30. 2016 Ford F150 Supercrew Cab Platinum Pickup 4D 5 1/2 FT (Warm)
-Stock A81000 · $34,995 · [listing](https://www.luxautomotivellc.com/inventory/ford/f150-supercrew-cab/a81000/)
+> Who says a sports car can't have four doors? This 2019 Mercedes-AMG GT 53 has the turbo V6, all-wheel drive, and a gorgeous fastback shape. White outside, black inside. 86,027 miles. And the Carfax shows forty service records, which might honestly be a record on our lot. $43,295, with forty documented visits behind it. Call us and set up your drive, and feel that turbo six for yourself. You'll be hooked after the first on-ramp.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2020 RAM 2500 Mega Cab Laramie Pickup 4D 6 1/3 FT (#206727)
 
-> Looking for a truck under $35,000? You're going to love this one! Let's get into it! One-owner Carfax! No accidents reported on the Carfax! 18 service records on the Carfax! Check out that white paint with the black interior! Just 47,669 miles, barely broken in! Four-wheel drive, so it's ready when the road isn't! All of that for $34,995! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Open the rear doors and show off the Mega Cab space
 
-## 31. 2020 Ford F350 Super Duty Crew Cab Lariat Pickup 4D 6 3/4 FT (Warm)
-Stock C17123 · $34,495 · [listing](https://www.luxautomotivellc.com/inventory/ford/f350-super-duty-crew-cab/c17123/)
+> Need a truck that fits the whole crew? The Mega Cab was made for exactly that. This 2020 RAM 2500 Laramie has massive rear legroom, a diesel engine, and four-wheel drive. It shows 135,440 miles, no reported accidents, and nineteen service records. Black on black. It tows on Monday and hauls the family on Sunday. $40,295. Ring us today, and let's take it out for a spin together this afternoon.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2021 Audi SQ7 Premium Plus Sport Utility 4D (#016415)
 
-> Want something dependable? Say hello to this 2020 Ford F350 Super Duty Crew Cab! Let me show you what you get. One-owner Carfax! No accidents reported on the Carfax! 34 service records on the Carfax! Finished in white with a black interior. Sharp! 187,322 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! It's priced at $34,495. Ask for stock number C17123, send us a message, or come see it today!
+**Shot:** Show the third row folding up, then the driver's seat
 
-## 32. 2020 GMC Sierra 2500 HD Crew Cab Denali Pickup 4D 6 1/2 FT (Warm)
-Stock 210240 · $32,495 · [listing](https://www.luxautomotivellc.com/inventory/gmc/sierra-2500-hd-crew-cab/210240/)
+> Third row for the kids. S performance for you. That's the 2021 Audi SQ7! This Premium Plus has all-wheel drive, 79,423 miles, and a clean Carfax with no accidents and fourteen service records. Gray outside with a bold red interior. Honestly, it's the coolest way to do carpool that I know of. $35,495. Message us today and let's get you in, and the kids can fight over who sits where.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2016 Ford F150 Supercrew Cab Platinum Pickup 4D 5 1/2 FT (#A81000)
 
-> Good morning from Lux Automotive! Let's check out this 2020 GMC Sierra 2500 HD Crew Cab! Let me show you what you get. 43 service records on the Carfax! Finished in white with a black interior. Sharp! 209,043 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! One-owner Carfax! It's priced at $32,495. Ask for stock number 210240, send us a message, or come see it today!
+**Shot:** Start inside showing the Platinum interior, then step out to the truck bed
 
-## 33. 2023 BMW X5 sDrive40i Sport Utility 4D (Warm)
-Stock P51455 · $29,995 · [listing](https://www.luxautomotivellc.com/inventory/bmw/x5/p51455/)
+> Ever met a truck that's been babied? Look at this one right here. A 2016 Ford F-150 Platinum with one owner, eighteen service records, and no accidents on the Carfax. Only 47,669 miles! Four-wheel drive, white paint, black interior. It's the luxury F-150 that still loves a hard day of work. $34,995. Phone the store and set up a test drive this week, and see for yourself how clean it really is.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2020 Ford F350 Super Duty Crew Cab Lariat Pickup 4D 6 3/4 FT (#C17123)
 
-> It's walkaround time! Meet this gray 2023 BMW X5! Let's get into it! It's showing 60,067 miles and ready to roll! Check out that gray paint with the black interior! Honestly, the photos don't do it justice. You have to see it in person. This is the kind of SUV people ask us about all the time. All of that for $29,995! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Hook the camera to the hitch area, then pan up the tailgate
 
-## 34. 2020 Chevrolet Silverado 2500 HD Crew Cab LTZ Pickup 4D 6 1/2 FT (Warm)
-Stock 176949 · $29,295 · [listing](https://www.luxautomotivellc.com/inventory/chevrolet/silverado-2500-hd-crew-cab/176949/)
+> Want a Super Duty without the Super Duty price tag? Check this out. A 2020 Ford F-350 Crew Cab Lariat, diesel, four-wheel drive, for $34,495. It's had one owner and thirty-four service records, with no reported accidents. The 187,322 miles came from working, and it's ready for plenty more. White over black. Give us a ring and let's go for a ride. Bring your trailer questions, because this truck is ready to earn.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2020 RAM 3500 Crew Cab Tradesman Pickup 4D 8 FT (#271893)
 
-> Stop scrolling! This 2020 Chevrolet Silverado 2500 HD Crew Cab is one you need to see! Here's why it's special. Check out that white paint with the black interior! It's showing 191,583 miles and ready to roll! Four-wheel drive, so it's ready when the road isn't! Diesel power under the hood, built to work! One-owner Carfax! No accidents reported on the Carfax! Yours for $29,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Toss a ladder or lumber in the bed (or mime it), then show the cab
 
-## 35. 2021 Tesla Model 3 Performance Sedan 4D (Warm)
-Stock 020218 · $27,995 · [listing](https://www.luxautomotivellc.com/inventory/tesla/model-3/020218/)
+> It's for the tradesman. It's literally in the name! This 2020 RAM 3500 Crew Cab Tradesman has a diesel engine, an eight-foot bed, and room for the whole crew. It shows 69,457 miles and twenty-seven service records. White over gray. No frills, all work, priced at $34,295. Call the store and get it on the job this week. It's ready to haul plywood, pipe, or whatever your trade throws at it.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (62,150 mi)
+## 2020 GMC Sierra 2500 HD Crew Cab Denali Pickup 4D 6 1/2 FT (#210240)
 
-> Good morning from Lux Automotive! Let's check out this 2021 Tesla Model 3! Check this out. Battery health tested at 85 percent, that's an Good rating! Estimated range? 267 miles on a charge! 62,150 miles and ready for plenty more! All-wheel drive for confidence in any weather! One-owner Carfax! No accidents reported on the Carfax! 5 service records on the Carfax! Finished in red with a white interior. Sharp! $27,995 gets you behind the wheel! Ask for stock 020218 before somebody else grabs it!
+**Shot:** Show the Carfax service count on a phone next to the truck
 
-## 36. 2020 Ford F350 Super Duty Crew Cab XL Pickup 4D 8 FT (Warm)
-Stock D92274 · $27,995 · [listing](https://www.luxautomotivellc.com/inventory/ford/f350-super-duty-crew-cab/d92274/)
+> Forty-three service records. I'll say it again. Forty-three! This 2020 GMC Sierra 2500 HD Denali was clearly maintained by an owner who cared, and it's had just one. Diesel. Four-wheel drive. No reported accidents. White paint, black interior. 209,043 miles, and still ready to go to work. That's dedication. $32,495. Call us today, ask for the white Denali, and we'll show you every one of those service records in person.
 
-**Shot:** Walk toward the car from a distance, open the door, show the gray interior
+## 2023 BMW X5 sDrive40i Sport Utility 4D (#P51455)
 
-> Looking for a truck under $28,000? You're going to love this one! Let's get into it! One-owner Carfax! No accidents reported on the Carfax! 18 service records on the Carfax! Check out that gray paint with the gray interior! It's showing 197,862 miles and ready to roll! Four-wheel drive, so it's ready when the road isn't! Diesel power under the hood, built to work! All of that for $27,995! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start inside showing the cockpit, then open the rear hatch
 
-## 37. 2019 Land Rover Range Rover Supercharged LWB Sport Utility 4D (Warm)
-Stock SENAD123 · $26,495 · [listing](https://www.luxautomotivellc.com/inventory/land-rover/range-rover/senad123/)
+> Have you been looking at BMW X5s? Look at this one before you buy anything. A 2023 X5 sDrive40i. Gray over black. 60,067 miles. Two service records. And the price? $29,995. That's a nearly new BMW SUV for what a lot of people pay for economy cars. Seriously, call the store and schedule a test drive today. Once you sit in that cockpit, you'll understand why I'm so excited about this one.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (97,358 mi)
+## 2020 Chevrolet Silverado 2500 HD Crew Cab LTZ Pickup 4D 6 1/2 FT (#176949)
 
-> Want something dependable? Say hello to this 2019 Land Rover Range Rover! Check this out. Four-wheel drive, so it's ready when the road isn't! No accidents reported on the Carfax! 24 service records on the Carfax! Finished in black with a black interior. Sharp! 97,358 miles and ready for plenty more! This is the kind of SUV people ask us about all the time. $26,495 gets you behind the wheel! Ask for stock SENAD123 before somebody else grabs it!
+**Shot:** Camera on the dash, then hop out and do a walkaround
 
-## 38. 2018 Mercedes-Benz Mercedes-AMG E-Class E 43 AMG Sedan 4D (Warm)
-Stock 356660 · $21,495 · [listing](https://www.luxautomotivellc.com/inventory/mercedes-benz/mercedes-amg-e-class/356660/)
+> So what does $29,295 get you in a heavy-duty truck? A 2020 Chevy Silverado 2500 HD LTZ diesel with four-wheel drive! One owner. No reported accidents. Thirty service records on the Carfax. White paint, black interior, and that comfy LTZ trim. It has 191,583 miles, all well documented. Ring Lux Automotive, ask for stock 176949, and come take it out for a real drive this week. Bring your work boots, too.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2020 Ford F350 Super Duty Crew Cab XL Pickup 4D 8 FT (#D92274)
 
-> It's walkaround time! Meet this black 2018 Mercedes-Benz Mercedes-AMG E-Class! Here's why it's special. It's showing 89,313 miles and ready to roll! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 6 service records on the Carfax! Check out that black paint with the red interior! Honestly, the photos don't do it justice. You have to see it in person. Yours for $21,495! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Show the bed with straps or tools, then the crew cab back seat
 
-## 39. 2022 Audi Q5 45 TFSI S Line Premium Plus Sport Utility 4D (Warm)
-Stock 079302 · $19,295 · [listing](https://www.luxautomotivellc.com/inventory/audi/q5/079302/)
+> Who needs an F-350 XL? Contractors, landscapers, and anyone pulling a trailer. This 2020 Super Duty Crew Cab has a diesel, four-wheel drive, and a full eight-foot bed. It's had one owner and eighteen service records, with no reported accidents. It shows 197,862 miles. Gray over gray. Priced at $27,995. Call us and let's talk business. We'll get you in the seat and out on the road in no time.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2019 Land Rover Range Rover Supercharged LWB Sport Utility 4D (#SENAD123)
 
-> Good morning from Lux Automotive! Let's check out this 2022 Audi Q5! Let me show you what you get. Finished in black with a black interior. Sharp! 60,944 miles and ready for plenty more! All-wheel drive for confidence in any weather! 10 service records on the Carfax! Honestly, the photos don't do it justice. You have to see it in person. It's priced at $19,295. Ask for stock number 079302, send us a message, or come see it today!
+**Shot:** Sit in the rear seat and stretch out your legs, then step out
 
-## 40. 2018 RAM 2500 Crew Cab Tradesman Pickup 4D 6 1/3 FT (Warm)
-Stock 104842 · $18,295 · [listing](https://www.luxautomotivellc.com/inventory/ram/2500-crew-cab/104842/)
+> Want to ride in the back seat like a VIP? The long wheelbase Range Rover lets you. This 2019 Range Rover Supercharged LWB is black inside and out, with four-wheel drive and 97,358 miles. Pure comfort. The Carfax shows no accidents and twenty-four service records. That's a luxury SUV at a used-car price, $26,495. Call us today, come stretch out in that back seat, and see what everyone's been talking about.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2016 RAM 2500 Mega Cab Laramie Pickup 4D 6 1/3 FT (#230288)
 
-> Good morning from Lux Automotive! Let's check out this 2018 RAM 2500 Crew Cab! Let me show you what you get. 8 service records on the Carfax! Finished in gray with a gray interior. Sharp! 105,682 miles and ready for plenty more! Honestly, the photos don't do it justice. You have to see it in person. It's priced at $18,295. Ask for stock number 104842, send us a message, or come see it today!
+**Shot:** Hitch close-up, then the full truck walkaround
 
-## 41. 2023 Chrysler Pacifica Limited Van 4D (Warm)
-Stock 530962 · $18,295 · [listing](https://www.luxautomotivellc.com/inventory/chrysler/pacifica/530962/)
+> Got a camper? A boat? Here's your tow rig. This 2016 RAM 2500 Mega Cab Laramie brings the diesel, four-wheel drive, and a cab with tons of legroom. One owner. Eight service records. 156,446 miles. Black paint, black interior. Everything I just named for $24,995. Phone us before somebody beats you to it! We'll pull it up front so you can check out the cab and the hitch in person.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2018 Mercedes-Benz Mercedes-AMG E-Class E 43 AMG Sedan 4D (#356660)
 
-> Want something dependable? Say hello to this 2023 Chrysler Pacifica! Let me show you what you get. Finished in gray with a black interior. Sharp! 85,614 miles and ready for plenty more! One-owner Carfax! This is the kind of ride people ask us about all the time. Whether it's the daily commute or a weekend trip, this ride is ready. It's priced at $18,295. Ask for stock number 530962, send us a message, or come see it today!
+**Shot:** Start tight on the red seats, then pan out through the windshield
 
-## 42. 2017 Chevrolet Tahoe Premier Sport Utility 4D (Warm)
-Stock 319074 · $17,295 · [listing](https://www.luxautomotivellc.com/inventory/chevrolet/tahoe/319074/)
+> Guess how much an AMG costs these days. Less than you'd guess! This 2018 Mercedes-AMG E 43 Sedan is $21,495. It has all-wheel drive, 89,313 miles, and a Carfax with no reported accidents and six service records. Black outside with a bold red interior. Honestly, it's a lot of car for the money. Call us and set up your test drive, and get ready for all the compliments on that red leather.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2022 Audi Q5 45 TFSI S Line Premium Plus Sport Utility 4D (#079302)
 
-> Looking for an SUV under $18,000? You're going to love this one! Here's why it's special. 28 service records on the Carfax! Check out that gray paint with the beige interior! It's showing 134,615 miles and ready to roll! No accidents reported on the Carfax! This is the kind of SUV people ask us about all the time. Yours for $17,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Hatch opening, show cargo space, then the front seats
 
-## 43. 2018 Mercedes-Benz GLS GLS 450 4MATIC Sport Utility 4D (Warm)
-Stock 154943 · $14,995 · [listing](https://www.luxautomotivellc.com/inventory/mercedes-benz/gls/154943/)
+> Want an SUV that feels upscale without a huge payment? Look right here. A 2022 Audi Q5 S Line Premium Plus with all-wheel drive. It has 60,944 miles and ten service records. Black outside, black inside, elegant, sporty, and understated. And the price is just $19,295. Ring the store, ask for stock 079302, and take it for a drive. You'll feel the difference the moment you settle into that seat.
 
-**Shot:** Walk toward the car from a distance, open the door, show the black interior
+## 2018 RAM 2500 Crew Cab Tradesman Pickup 4D 6 1/3 FT (#104842)
 
-> It's walkaround time! Meet this gray 2018 Mercedes-Benz GLS! Let's get into it! It's showing 100,380 miles and ready to roll! All-wheel drive for confidence in any weather! 27 service records on the Carfax! Check out that gray paint with the black interior! Honestly, the photos don't do it justice. You have to see it in person. All of that for $14,995! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start at the bed loading tools, then the crew cab back seat
 
-## 44. 2022 Nissan Pathfinder SV Sport Utility 4D (Warm)
-Stock 244825 · $14,495 · [listing](https://www.luxautomotivellc.com/inventory/nissan/pathfinder/244825/)
+> Starting a business and need a real truck without a huge loan? This 2018 RAM 2500 Tradesman Crew Cab has room for the crew and a bed for the gear. It has 105,682 miles and eight service records. Gray over gray. Priced at $18,295. Call us and let's get you working. We'll have it warmed up and ready for a test drive whenever you can swing by the lot today.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2023 Chrysler Pacifica Limited Van 4D (#530962)
 
-> Heads up! This 2022 Nissan Pathfinder will not last long on our lot! Let me show you what you get. One-owner Carfax! 4 service records on the Carfax! Finished in blue with a black interior. Sharp! 124,812 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! It's priced at $14,495. Ask for stock number 244825, send us a message, or come see it today!
+**Shot:** Family vibe: pile bags or car seats in, then close the sliding door
 
-## 45. 2022 Volkswagen Tiguan SE 4Motion Sport Utility 4D (Warm)
-Stock 048954 · $13,995 · [listing](https://www.luxautomotivellc.com/inventory/volkswagen/tiguan/048954/)
+> Is your family outgrowing your car? This is your upgrade. A 2023 Chrysler Pacifica Limited minivan with one owner and 85,614 miles. Top Limited trim. Gray outside, black inside. Tons of space for kids, gear, groceries, and road trips. And it's priced at just $18,295. Call us and let's get the whole family in for a test drive. We'll even help you figure out where all the car seats go.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2017 Chevrolet Tahoe Premier Sport Utility 4D (#319074)
 
-> Stop scrolling! This 2022 Volkswagen Tiguan is one you need to see! Here's why it's special. It's showing 128,637 miles and ready to roll! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 12 service records on the Carfax! Check out that gray paint with the black interior! Yours for $13,995! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Open all the doors and show off the seating, then the cargo
 
-## 46. 2019 Toyota RAV4 LE Sport Utility 4D (Warm)
-Stock 008568 · $13,995 · [listing](https://www.luxautomotivellc.com/inventory/toyota/rav4/008568/)
+> Got a big crew? Then you need to look at the Tahoe. This 2017 Chevrolet Tahoe Premier is a big, comfortable SUV with a beige interior. Gray outside. No accidents reported. Twenty-eight service records. 134,615 miles. Plush seats, too. Rear-wheel drive. Priced at $17,295. Call us and bring the whole family to see it. Everybody gets a seat, nobody has to squeeze, and you'll still have room left over for the cooler.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (135,303 mi)
+## 2018 Mercedes-Benz GLS GLS 450 4MATIC Sport Utility 4D (#154943)
 
-> Heads up! This 2019 Toyota RAV4 will not last long on our lot! Check this out. No accidents reported on the Carfax! 15 service records on the Carfax! Finished in red with a beige interior. Sharp! 135,303 miles and ready for plenty more! Whether it's the daily commute or a weekend trip, this SUV is ready. $13,995 gets you behind the wheel! Ask for stock 008568 before somebody else grabs it!
+**Shot:** Kids-in-the-back angle: open the rear doors, show the third row up
 
-## 47. 2018 Volkswagen Tiguan 2.0T SE Sport Utility 4D (Warm)
-Stock 021514 · $9,495 · [listing](https://www.luxautomotivellc.com/inventory/volkswagen/tiguan/021514/)
+> Need a third row and want a Mercedes badge? This is the one. A 2018 Mercedes-Benz GLS 450 4MATIC with all-wheel drive and three rows of seats. Gray over black. 100,380 miles. Twenty-seven service records on the Carfax, so it's been looked after. And it's only $14,995. Ring us and bring the family to see it. We'll fold down the seats so you can see just how much room it has.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (119,410 mi)
+## 2022 Nissan Pathfinder SV Sport Utility 4D (#244825)
 
-> Good morning from Lux Automotive! Let's check out this 2018 Volkswagen Tiguan! Check this out. No accidents reported on the Carfax! 27 service records on the Carfax! Finished in blue with a black interior. Sharp! 119,410 miles and ready for plenty more! Honestly, the photos don't do it justice. You have to see it in person. $9,495 gets you behind the wheel! Ask for stock 021514 before somebody else grabs it!
+**Shot:** Hold up three fingers, then show each row of seats
 
-## 48. 2025 RAM 2500 Crew Cab Big Horn Pickup 4D 6 1/3 FT (Warm)
-Stock 576519 · $0 · [listing](https://www.luxautomotivellc.com/inventory/ram/2500-crew-cab/576519/)
+> Three rows. Four-wheel drive. One owner. That's this 2022 Nissan Pathfinder SV! It's blue with a black interior, and the Carfax shows four service records. It has 124,812 miles. Room for the kids, the friends, and the dog. That's a late-model SUV at only $14,495. Call us, ask for stock 244825, and come take a look today. Bring the kids, and see who calls dibs on the back row first.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2022 Volkswagen Tiguan SE 4Motion Sport Utility 4D (#048954)
 
-> Good morning from Lux Automotive! Let's check out this 2025 RAM 2500 Crew Cab! Let me show you what you get. Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! One-owner Carfax! No accidents reported on the Carfax! 10 service records on the Carfax! 65,914 miles and ready for plenty more! It's priced at $0. Ask for stock number 576519, send us a message, or come see it today!
+**Shot:** Start in the driver seat, then show the rear seats and cargo
 
-## 49. 2017 Ford F350 Super Duty Crew Cab Platinum Pickup 4D 8 FT (Warm)
-Stock C83343 · $0 · [listing](https://www.luxautomotivellc.com/inventory/ford/f350-super-duty-crew-cab/c83343/)
+> Hunting for a dependable small SUV that won't break the bank? Check out this 2022 VW Tiguan SE. All-wheel drive with 4Motion. No reported accidents. Twelve service records. Gray outside, black inside, and 128,637 miles. It's a sensible, well-kept little SUV. It's perfect for commuting and weekend errands, priced at $13,995. Pick up the phone, set up a test drive today, and see how easy it is to fall for this little SUV.
 
-**Shot:** Walk toward the car from a distance, open the door, show the  interior
+## 2019 Toyota RAV4 LE Sport Utility 4D (#008568)
 
-> It's walkaround time! Meet this 2017 Ford F350 Super Duty Crew Cab! Let's get into it! Diesel power under the hood, built to work! No accidents reported on the Carfax! 8 service records on the Carfax! It's showing 102,112 miles and ready to roll! Four-wheel drive, so it's ready when the road isn't! All of that for $0! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start with the keys on the hood, grab them, hop in the driver seat
 
-## 50. 2023 Chevrolet Silverado 1500 Crew Cab LT Pickup 4D 5 3/4 FT (Warm)
-Stock 109254 · $0 · [listing](https://www.luxautomotivellc.com/inventory/chevrolet/silverado-1500-crew-cab/109254/)
+> Who's this RAV4 for? The person who just wants something that starts every morning, no drama, no surprises. This 2019 Toyota RAV4 LE has a Carfax with no accidents and fifteen service records. Red outside, beige inside. It shows 135,303 miles, all well documented. And it's only $13,995. Phone us and let's get you a test drive this week. Dependable, affordable, and ready to go, exactly the way a Toyota should be.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2018 Honda CR-V EX-L W/Navigation Sport Utility 4D (#040655)
 
-> Heads up! This 2023 Chevrolet Silverado 1500 Crew Cab will not last long on our lot! Let me show you what you get. 28 service records on the Carfax! 129,160 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! No accidents reported on the Carfax! Whether it's the daily commute or a weekend trip, this truck is ready. It's priced at $0. Ask for stock number 109254, send us a message, or come see it today!
+**Shot:** Show the leather seats and the nav screen, then step out
 
-## 51. 2019 Chevrolet Silverado 3500 HD Crew Cab LT Pickup 4D 8 FT (Warm)
-Stock 165113 · $0 · [listing](https://www.luxautomotivellc.com/inventory/chevrolet/silverado-3500-hd-crew-cab/165113/)
+> Want leather and navigation without a big monthly payment? This 2018 Honda CR-V EX-L has both. All-wheel drive. One owner. Twenty-four service records. Silver paint, gray interior. It has 167,571 miles, so the price is a very friendly $12,295. Leather seats make every commute nicer. Ring the store and ask for stock 040655. Our team will have it pulled around front, and you can see for yourself how well this Honda has been cared for.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (135,807 mi)
+## 2018 Volkswagen Tiguan 2.0T SE Sport Utility 4D (#021514)
 
-> Good morning from Lux Automotive! Let's check out this 2019 Chevrolet Silverado 3500 HD Crew Cab! Check this out. No accidents reported on the Carfax! 12 service records on the Carfax! 135,807 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! $0 gets you behind the wheel! Ask for stock 165113 before somebody else grabs it!
+**Shot:** Teen driver angle: hand over the keys, they climb in
 
-## 52. 2022 RAM 3500 Crew Cab Tradesman Pickup 4D 8 FT (Warm)
-Stock 426591 · $0 · [listing](https://www.luxautomotivellc.com/inventory/ram/3500-crew-cab/426591/)
+> Shopping for your teenager's first car? Here's a solid pick. A 2018 VW Tiguan SE with no accidents on the Carfax and twenty-seven service records. Blue paint, black interior. It has 119,410 miles, with a documented history. Front-wheel drive, roomy, and practical for school and practice. And it's only $9,495! Call us and bring the new driver by today. We'll go over everything with you, nice and easy, with zero pressure.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (147,988 mi)
+## 2025 RAM 2500 Crew Cab Big Horn Pickup 4D 6 1/3 FT (#576519)
 
-> Good morning from Lux Automotive! Let's check out this 2022 RAM 3500 Crew Cab! Check this out. Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! No accidents reported on the Carfax! 16 service records on the Carfax! 147,988 miles and ready for plenty more! Honestly, the photos don't do it justice. You have to see it in person. $0 gets you behind the wheel! Ask for stock 426591 before somebody else grabs it!
+**Shot:** Hitch close-up, then walk forward to the grille
 
-## 53. 2020 GMC Sierra 3500 HD Crew Cab Denali Pickup 4D 6 1/2 FT (Warm)
-Stock 216349 · $0 · [listing](https://www.luxautomotivellc.com/inventory/gmc/sierra-3500-hd-crew-cab/216349/)
+> Why pay new-truck money when you can get a 2025 right here? This RAM 2500 Crew Cab Big Horn has a diesel, four-wheel drive, and one owner. The Carfax shows no accidents and ten service records. It's got 65,914 miles of work under its belt, and it's ready for a whole lot more. Give us a ring and ask about stock 576519 today. We'll have the keys ready and the truck warmed up.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (187,683 mi)
+## 2017 Ford F350 Super Duty Crew Cab Platinum Pickup 4D 8 FT (#C83343)
 
-> Good morning from Lux Automotive! Let's check out this 2020 GMC Sierra 3500 HD Crew Cab! Check this out. 187,683 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! No accidents reported on the Carfax! 28 service records on the Carfax! $0 gets you behind the wheel! Ask for stock 216349 before somebody else grabs it!
+**Shot:** Start inside, show the Platinum interior, then walk to the long bed
 
-## 54. 2024 GMC Sierra 2500 HD Crew Cab Pro Pickup 4D 6 1/2 FT (Warm)
-Stock 259733 · $0 · [listing](https://www.luxautomotivellc.com/inventory/gmc/sierra-2500-hd-crew-cab/259733/)
+> Can a work truck feel like a luxury car? The F-350 Platinum says yes! This 2017 Super Duty Crew Cab is a diesel with four-wheel drive and a full eight-foot bed. It has 102,112 miles. Real comfort. No accidents reported. Eight service records on the Carfax. Work hard all week, then cruise in comfort all weekend. Reach out about stock C83343, and we'll show you every inch of this Platinum truck.
 
-**Shot:** Start inside on the dash, then step out to the full exterior
+## 2023 Chevrolet Silverado 1500 Crew Cab LT Pickup 4D 5 3/4 FT (#109254)
 
-> Heads up! This 2024 GMC Sierra 2500 HD Crew Cab will not last long on our lot! Let me show you what you get. One-owner Carfax! No accidents reported on the Carfax! 6 service records on the Carfax! 107,016 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! It's priced at $0. Ask for stock number 259733, send us a message, or come see it today!
+**Shot:** Tailgate drop, then walk to the driver door and hop in
 
-## 55. 2019 Mercedes-Benz Mercedes-AMG G-Class G 63 AMG Sport Utility 4D (Cool)
-Stock 308309 · $105,995 · [listing](https://www.luxautomotivellc.com/inventory/mercedes-benz/mercedes-amg-g-class/308309/)
+> Do you know how rare twenty-eight service records on a 2023 is? That's somebody who took maintenance seriously! This Chevrolet Silverado 1500 Crew Cab LT has four-wheel drive and a Carfax with no accidents reported. It has 129,160 miles. There's room for the family in the back seat and room for the gear in the bed. Phone the store, mention stock 109254 by number, and let's line up a test drive for you sometime this week!
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (76,346 mi)
+## 2016 Chevrolet Colorado Crew Cab LT Pickup 4D 5 FT (#154079)
 
-> Want something dependable? Say hello to this 2019 Mercedes-Benz Mercedes-AMG G-Class! Check this out. All-wheel drive for confidence in any weather! 5 service records on the Carfax! Finished in black with a red interior. Sharp! 76,346 miles and ready for plenty more! This is the kind of SUV people ask us about all the time. $105,995 gets you behind the wheel! Ask for stock 308309 before somebody else grabs it!
+**Shot:** Parallel park angle or narrow-space shot to show the size
 
-## 56. 2023 RAM 3500 Mega Cab Longhorn Pickup 4D 6 1/3 FT (Cool)
-Stock 597556 · $64,995 · [listing](https://www.luxautomotivellc.com/inventory/ram/3500-mega-cab/597556/)
+> Ever tried to park a full-size truck downtown? Yeah. That's exactly why the Colorado exists. This 2016 Chevrolet Colorado Crew Cab LT gives you a crew cab and a bed in a midsize package. One owner. No accidents reported. Nine service records. It has 145,635 miles. It's a nimble, handy truck. Dial the store and request stock 154079 today. We'll even let you try parking it yourself, and you'll see what I mean.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (50,199 mi)
+## 2019 Chevrolet Silverado 3500 HD Crew Cab LT Pickup 4D 8 FT (#165113)
 
-> Want something dependable? Say hello to this 2023 RAM 3500 Mega Cab! Check this out. And yes, it's a diesel. Torque for days! One-owner Carfax! No accidents reported on the Carfax! 8 service records on the Carfax! Finished in black with a brown interior. Sharp! 50,199 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! $64,995 gets you behind the wheel! Ask for stock 597556 before somebody else grabs it!
+**Shot:** Hitch close-up, then pan up to the full truck
 
-## 57. 2019 Mercedes-Benz AMG GT Sedan 4D AMG GT 53 AWD 3.0L V6 Turbo (Cool)
-Stock 004344 · $43,295 · [listing](https://www.luxautomotivellc.com/inventory/mercedes-benz/amg-gt/004344/)
+> What's the heaviest thing you need to tow? This truck is ready for it. The 2019 Chevy Silverado 3500 HD LT Crew Cab is a diesel with four-wheel drive and a full eight-foot bed. Its Carfax shows no reported accidents and twelve service records. It has 135,807 miles. Call the lot, and say stock 165113. We'll get you behind the wheel and out on the road today, so you can feel that torque.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (86,027 mi)
+## 2019 Honda Ridgeline Black Edition Pickup 4D 5 FT (#038296)
 
-> Good morning from Lux Automotive! Let's check out this 2019 Mercedes-Benz AMG GT! Check this out. All-wheel drive for confidence in any weather! 40 service records on the Carfax! Finished in white with a black interior. Sharp! 86,027 miles and ready for plenty more! Honestly, the photos don't do it justice. You have to see it in person. $43,295 gets you behind the wheel! Ask for stock 004344 before somebody else grabs it!
+**Shot:** Start in the driver seat, then show the bed from the tailgate
 
-## 58. 2020 RAM 2500 Mega Cab Laramie Pickup 4D 6 1/3 FT (Cool)
-Stock 206727 · $40,295 · [listing](https://www.luxautomotivellc.com/inventory/ram/2500-mega-cab/206727/)
+> Want a truck that drives like a car? Meet the Honda Ridgeline. This 2019 Black Edition has all-wheel drive and a Carfax with no reported accidents and eighteen service records. It has 121,861 miles. It's comfortable on the highway and useful at the hardware store. Phone the store and ask about stock 038296. We'll have it ready for you to drive today, and you'll feel just how smooth it really is.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2022 RAM 3500 Crew Cab Tradesman Pickup 4D 8 FT (#426591)
 
-> It's walkaround time! Meet this black 2020 RAM 2500 Mega Cab! Here's why it's special. 19 service records on the Carfax! Check out that black paint with the black interior! It's showing 135,440 miles and ready to roll! Four-wheel drive, so it's ready when the road isn't! Diesel power under the hood, built to work! No accidents reported on the Carfax! Yours for $40,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Load the bed with tools or materials, then close the tailgate
 
-## 59. 2020 RAM 3500 Crew Cab Tradesman Pickup 4D 8 FT (Cool)
-Stock 271893 · $34,295 · [listing](https://www.luxautomotivellc.com/inventory/ram/3500-crew-cab/271893/)
+> Business booming? You need a truck that keeps up. This 2022 RAM 3500 Crew Cab Tradesman has the diesel, four-wheel drive, and a full eight-foot bed. No accidents reported. Sixteen service records. It has 147,988 miles. Room for the crew, room for the materials. Call the store, and say you want stock 426591. We'll have it ready for you to load up and take for a real-world test drive today.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2017 Chevrolet Silverado 2500 HD Crew Cab LT Pickup 4D 6 1/2 FT (#209719)
 
-> It's walkaround time! Meet this white 2020 RAM 3500 Crew Cab! Here's why it's special. 27 service records on the Carfax! Check out that white paint with the gray interior! It's showing 69,457 miles and ready to roll! Diesel power under the hood, built to work! Honestly, the photos don't do it justice. You have to see it in person. Yours for $34,295! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Hitch close-up, pan up the tailgate, then a walkaround
 
-## 60. 2016 RAM 2500 Mega Cab Laramie Pickup 4D 6 1/3 FT (Cool)
-Stock 230288 · $24,995 · [listing](https://www.luxautomotivellc.com/inventory/ram/2500-mega-cab/230288/)
+> Want a diesel that's been looked after? Here's one. This 2017 Chevy Silverado 2500 HD LT Crew Cab has four-wheel drive and twenty-nine service records on the Carfax. It has 117,622 miles. Room for the family, power for the trailer. Ring us, ask about stock 209719, and let's take it out on the road. You'll feel exactly why diesel owners swear by these heavy-duty trucks the minute you hit the gas.
 
-**Shot:** Slow walkaround from the front 3/4, then the interior and odometer (156,446 mi)
+## 2024 RAM 2500 Crew Cab Big Horn Pickup 4D 6 1/3 FT (#195448)
 
-> Heads up! This 2016 RAM 2500 Mega Cab will not last long on our lot! Check this out. One-owner Carfax! 8 service records on the Carfax! Finished in black with a black interior. Sharp! 156,446 miles and ready for plenty more! Four-wheel drive, so it's ready when the road isn't! And yes, it's a diesel. Torque for days! $24,995 gets you behind the wheel! Ask for stock 230288 before somebody else grabs it!
+**Shot:** Stand next to the truck for scale, then climb in
 
-## 61. 2019 Honda Ridgeline Black Edition Pickup 4D 5 FT (Cool)
-Stock 038296 · $0 · [listing](https://www.luxautomotivellc.com/inventory/honda/ridgeline/038296/)
+> Big truck energy! This 2024 RAM 2500 Crew Cab Big Horn is a one-owner diesel with four-wheel drive. Ten service records on the Carfax. It has 83,746 miles. It's nearly new and ready to tow your camper, your boat, or your equipment. Get on the phone about stock 195448 before somebody else does! We'd love to show it to you and let you feel how this diesel pulls on the open road.
 
-**Shot:** Walk toward the car from a distance, open the door, show the  interior
+## 2018 Ford F150 Supercrew Cab Lariat Pickup 4D 5 1/2 FT (#D49423)
 
-> Stop scrolling! This 2019 Honda Ridgeline is one you need to see! Let's get into it! It's showing 121,861 miles and ready to roll! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 18 service records on the Carfax! Whether it's the daily commute or a weekend trip, this truck is ready. All of that for $0! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start in the Lariat interior, then hop out and show the 5.5-foot bed
 
-## 62. 2017 Chevrolet Silverado 2500 HD Crew Cab LT Pickup 4D 6 1/2 FT (Cool)
-Stock 209719 · $0 · [listing](https://www.luxautomotivellc.com/inventory/chevrolet/silverado-2500-hd-crew-cab/209719/)
+> Did you know Ford made a diesel F-150? This 2018 SuperCrew Lariat is one of them! Four-wheel drive. One owner. No accidents reported. Twenty-nine service records. There are 150,557 miles on it. Rare find. That's a half-ton diesel that's been well maintained its whole life. Phone us about stock D49423. These don't come around very often, so come see it before it's gone and somebody else is driving it home.
 
-**Shot:** Walk toward the car from a distance, open the door, show the  interior
+## 2020 GMC Sierra 3500 HD Crew Cab Denali Pickup 4D 6 1/2 FT (#216349)
 
-> It's walkaround time! Meet this 2017 Chevrolet Silverado 2500 HD Crew Cab! Let's get into it! It's showing 117,622 miles and ready to roll! Four-wheel drive, so it's ready when the road isn't! Diesel power under the hood, built to work! 29 service records on the Carfax! Honestly, the photos don't do it justice. You have to see it in person. All of that for $0! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start inside showing the Denali interior, then walk to the hitch
 
-## 63. 2018 Ford F150 Supercrew Cab Lariat Pickup 4D 5 1/2 FT (Cool)
-Stock D49423 · $0 · [listing](https://www.luxautomotivellc.com/inventory/ford/f150-supercrew-cab/d49423/)
+> Want to tow big and ride in comfort? That's what Denali is all about. This 2020 GMC Sierra 3500 HD Denali Crew Cab has a diesel engine, four-wheel drive, and twenty-eight service records on the Carfax, with no accidents reported. It has 187,683 miles. Comfort and capability. Ring us, and quote stock 216349. We'll show you every detail in person today, from the hitch all the way up to the cabin.
 
-**Shot:** Open on a badge close-up, pan to the full side profile, end in the driver's seat
+## 2024 GMC Sierra 2500 HD Crew Cab Pro Pickup 4D 6 1/2 FT (#259733)
 
-> Looking for a truck under $0? You're going to love this one! Here's why it's special. Diesel power under the hood, built to work! One-owner Carfax! No accidents reported on the Carfax! 29 service records on the Carfax! It's showing 150,557 miles and ready to roll! Four-wheel drive, so it's ready when the road isn't! Yours for $0! DM us or call now to set up your test drive. Don't wait on this one!
+**Shot:** Toss gear in the bed, slam the tailgate, walk to the front
 
-## 64. 2020 Mercedes-Benz Mercedes-AMG GT 63 Coupe 4D (Cool)
-Stock 012595 · $0 · [listing](https://www.luxautomotivellc.com/inventory/mercedes-benz/mercedes-amg-gt/012595/)
+> Need a newer heavy-duty truck to keep your business moving? Here it is. A 2024 GMC Sierra 2500 HD Pro Crew Cab with diesel power and four-wheel drive. One owner. No reported accidents. Six service records. It has 107,016 miles. Room for the crew and plenty of muscle. Give the store a call about stock 259733. We'll have it pulled up front and ready to go whenever you can get here today.
 
-**Shot:** Walk toward the car from a distance, open the door, show the  interior
+## 2020 Mercedes-Benz Mercedes-AMG GT 63 Coupe 4D (#012595)
 
-> Stop scrolling! This 2020 Mercedes-Benz Mercedes-AMG GT is one you need to see! Let's get into it! Just 32,876 miles, barely broken in! All-wheel drive for confidence in any weather! No accidents reported on the Carfax! 23 service records on the Carfax! Whether it's the daily commute or a weekend trip, this ride is ready. All of that for $0! Tap the link, call us, or stop by Lux Automotive and take it for a drive!
+**Shot:** Start in the driver seat, hands on the wheel, then step out for the profile
+
+> Ever sat in an AMG GT 63? You need to. This 2020 Mercedes-AMG GT 63 Coupe has four doors, all-wheel drive, and only 32,876 miles. The Carfax shows twenty-three service records and no reported accidents. It's fast, gorgeous, and practical enough to bring your friends along. Ring us up and reserve a slot with stock 012595. We'd love to set you up with a test drive this week. Just don't blame us when you fall in love.
 
