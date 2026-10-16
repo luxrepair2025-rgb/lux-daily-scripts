@@ -29,7 +29,7 @@ const uid=()=>Date.now().toString(36)+Math.random().toString(36).slice(2,10);
 function compute(){const c=JSON.parse(JSON.stringify(repo.checks||{})),p=JSON.parse(JSON.stringify(repo.posted||{}));
  const seen=new Set();Object.values(p).forEach(a=>a.forEach(e=>seen.add(e.id)));
  const set=(s,k,v,t)=>{c[s]=c[s]||{};if(!c[s][k]||c[s][k].t<t)c[s][k]={v,t}};
- const evs=[...live,...pending],ids=new Set();
+ const evs=[...live,...pending],ids=new Set(repo.void||[]);
  evs.filter(e=>e&&e.id&&!ids.has(e.id)&&ids.add(e.id)).sort((a,b)=>a.t-b.t).forEach(e=>{const s=String(e.s);
   if(e.k==='s'||e.k==='b')set(s,e.k,e.v?1:0,e.t);
   else if(e.k==='p'){if(!seen.has(e.id)){seen.add(e.id);(p[s]=p[s]||[]).push({id:e.id,t:e.t,date:e.date})}set(s,'s',0,e.t);set(s,'b',0,e.t)}});

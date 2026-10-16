@@ -15,7 +15,8 @@ for l in urllib.request.urlopen(URL, timeout=30).read().decode().splitlines():
     except Exception: pass
 try: st = json.load(open('state.json'))
 except Exception: st = {}
-checks, posted = st.get('checks', {}), st.get('posted', {})
+checks, posted, void = st.get('checks', {}), st.get('posted', {}), st.get('void', [])
+evs = [e for e in evs if e['id'] not in set(void)]
 # migrate legacy counts.json (Script-tick based; verified empty at migration time)
 if os.path.exists('counts.json'):
     for s, v in json.load(open('counts.json')).get('stocks', {}).items():
@@ -34,7 +35,11 @@ for e in sorted(evs, key=lambda e: e['t']):
             seen.add(e['id']); posted.setdefault(s, []).append({'id': e['id'], 't': e['t'], 'date': e.get('date')})
         put(s, 's', 0, e['t']); put(s, 'b', 0, e['t'])
 for a in posted.values(): a.sort(key=lambda x: (x['t'], x['id']))
-new = json.dumps({'checks': checks, 'posted': posted}, indent=1, sort_keys=True) + '\n'
+posted = {s: [x for x in a if x['id'] not in set(void)] for s, a in posted.items()}
+posted = {s: a for s, a in posted.items() if a}
+out = {'checks': checks, 'posted': posted}
+if void: out['void'] = sorted(set(void))
+new = json.dumps(out, indent=1, sort_keys=True) + '\n'
 old = open('state.json').read() if os.path.exists('state.json') else ''
 files = []
 if new != old: open('state.json', 'w').write(new); files.append('state.json')
